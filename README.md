@@ -22,4 +22,4 @@ _Tips._ 如果本科学校不提供官方4分制GPA算法，且不心疼一千�
 
 ### 学位证明
 部分美国学校在申请中会要求申请者提交学位证明[Degree conferral/Proof of degree](https://engineering.nyu.edu/admissions/graduate/apply/requirements)。已毕业申请者扫描学位证即可，未毕业的在校申请者可以使用在读证明作为何时获得哪所学校学位的证明。  
-德国大学的研究生项目要求申请者上传Hochschulzugangsberechtigung（大学入学）相关文件，此处提供高中毕业证书、高考录取花名册及其公证翻译件即可。若需要Bachelorzeugnis（学士学位证书），同样使用学位证（毕业生）或在读证明（在校生）。另外中国学生在内地高校获得的学位需要在德国驻华使馆留德人员审核部进行[APS认证](https://www.aps.org.cn/zh/)，手续较为繁杂，需要进行面谈等审核流程。  
+德国大学的研究生项目要求申请者上传Hochschulzugangsberechtigung（大学入学）相关文件，此处提供高中毕业证书、高考录取花名册及其公证翻译件即可。若需要Bachelorzeugnis（学士学位证书），同样使用学位证（毕业生）或在读证明（在校生）。另外，中国学生如果仅在内地高校获得了学位，则需要在德国驻华使馆留德人员审核部进行[APS认证](https://www.aps.org.cn/zh/)，手续较为繁杂，需要进行面谈等审核流程。  
