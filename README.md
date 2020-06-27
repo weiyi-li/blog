@@ -36,7 +36,7 @@ XJTLU专区：
 
 ### 语言成绩
 托福或雅思有效期两年，一般学校要求语言成绩覆盖研究生当年9月开学时间，所以大三9月以后出分的成绩才有效。大二暑假开始可以集中备考，大三上学期开始尽快解决，尽量不要拖到大四上学期。万一之后再出什么以外，碰上类似疫情期间托福雅思全部取消的情况就麻烦了，想考都没机会。一般美国西部和中部学校的理工科专业托福最低要求在90左右，东部老牌藤校之类的学校可能要求100分。具体的备考方法在各网络平台上已经有很多经验了。我一共考了4次才拿到畅通无阻不会被任何大学卡的托福分数，94/94/97/106，个中艰辛难以言表，很惭愧。  
-美国大多数学校都认可托福雅思，我目前看到只有华盛顿大学ECE只认托福不收雅思。对于多国联申（比如美英）的同学来说，考雅思或者托福取决于个人更适应哪一种，申请学校的分布，以及学校本身对托福雅思的要求。举例，[纽约大学](https://engineering.nyu.edu/admissions/graduate/apply/requirements)Tandon工学院要求托福90，雅思7，这个标准考托福更容易达到（托福100一般等价雅思7）。[南洋理工大学EEE系](http://www.eee.ntu.edu.sg/Programmes/ProspectiveStudents/Graduate/MOE_sub_MSc/Pages/Admission_Reqts.aspx)的MSc雅思只要6.5，但托福却需要100分，显然考雅思申请要容易得多。而[帝国理工学院](http://www.imperial.ac.uk/study/pg/apply/requirements/english/)EEE系的硕士需要higher英语水平，即托福100小分22，雅思7小分6.5，这种情况考托福雅思难度相当，两者都可。  
+美国大多数学校都认可托福雅思，我目前看到只有华盛顿大学ECE只认托福不收雅思。对于多国联申（比如美英）的同学来说，考雅思或者托福取决于个人更适应哪一种，申请学校的分布，以及学校本身对托福雅思的要求。举例，[纽约大学](https://engineering.nyu.edu/admissions/graduate/apply/requirements)Tandon工学院要求托福90，雅思7，这个标准考托福更容易达到（托福100一般等价雅思7）。[南洋理工大学](http://www.eee.ntu.edu.sg/Programmes/ProspectiveStudents/Graduate/MOE_sub_MSc/Pages/Admission_Reqts.aspx)EEE系的MSc雅思只要6.5，但托福却需要100分，显然考雅思申请要容易得多。而[帝国理工学院](http://www.imperial.ac.uk/study/pg/apply/requirements/english/)EEE系的硕士需要higher英语水平，即托福100小分22，雅思7小分6.5，这种情况考托福雅思难度相当，两者都可。  
 _Tips._ 虽然有最低要求，但对于最低要求较低的学校，比如要求85/90，不要觉得考过线就万事大吉了，尽量还是越高越好，过百以后选择余地也更大。比如我97分那次非常想用宾大的waiver，后来过了100就放飞自我了，反正够了，还加申了托福要求100分的帝国理工和南洋理工，之后的补申也没有任何限制，不然托福所限根本申不了。  
 ```markdown
 XJTLU专区：  
