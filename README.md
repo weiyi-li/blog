@@ -116,11 +116,6 @@ Personal Statement和Statement of Purpose就是最主要的文书，里面的内
 南洋理工大学/NTU（Signal Processing）：亚洲tier1，除欧美以外的工科名校  
 **澳大利亚**  
 悉尼大学/USYD（IT）：名气大，出结果快  
-上述学校为2020fall的申请。不过由于2020年春天以来美国政策的收紧和形势的恶化，作为美国以外的plan B，我在拿到所有2020fall的offer之后，在2020年5月又申请了一些其他国家学校2021spring/summer的入学。  
-**加拿大**  
-麦吉尔大学/McGill：加拿大tier1，地理位置优越，IT实力强  
-**德国**  
-斯图加特大学/Stuttgart：德国TU9，工科实力强劲，地理位置优越  
 ```markdown
 XJTLU专区：
 刚刚提到的4类美国大学，XJTLU背景（包括2+2和4+X）足够申请以上4
@@ -151,7 +146,6 @@ Mich/UCSD/UW/杜克/USC/NYU/西北等，以上每所学校今年在2和4两边
 录取（Admitted）：UW/UPenn/UCSD/Purdue/Northwestern/USC/UCI/NYU/NEU/NTU  
 被拒（Rejected）：Imperial A&D IC Design/USYD  
 等待（Waitlist）：Imperial Medical Robotics  
-未出（Pending）：McGill/Stuttgart  
 
 ## 6. 时间线
 一般大多数学校的申请都需要在大四上学期提交，英国的申请在10月11月左右就可以提交，特别是像帝国理工这种分第一第二志愿的千万不能迟交，如果第一志愿被拒需要有足够的时间转入第二志愿审理。美国大学fall学期的申请deadline一般分为12.15前和12.15后，其中在12.15后的deadline大概是1.15/2.1/2.15这几个日期，根据学校各不相同。12.15的deadline时间比较紧张，需要在11月前就完成所有标化考试，并且在不晚于11月进行语言和GRE成绩的送分和匹配，同时文书等材料需要在11月底全部就位投递。如果有些大学的申请分为优先deadline和最终deadline，如果条件允许还是在优先deadline提交为好，因为优先deadline相比之下在审理和奖学金发放上确实会有更高的优先级。举例，[纽约大学](https://engineering.nyu.edu/admissions/graduate/apply/application-deadlines)Tandon工学院多数硕士专业优先deadline为12.15，而最终deadline为2.1。我在优先deadline前提交了申请，几天之后的12.20就下了offer，早拿早放心；如果等到1月份再赶最终deadline才提交是不可能这么快出结果的。  
@@ -173,3 +167,11 @@ Mich/UCSD/UW/杜克/USC/NYU/西北等，以上每所学校今年在2和4两边
 12.31前：UCI/UPenn/Northwestern/NEU/Imperial/NTU  
 12.15前：UW/UCSD/NYU/USC/Purdue  
 9.19：USYD  
+
+## 7. 2021补申
+由于2020年春天以来美国政策的收紧和形势的恶化，不得不申请一些美国以外的学校作为升学方向的plan B。我在拿到所有2020fall的offer之后，在2020年5月又申请了一些其他国家学校2021spring/summer的入学。  
+**加拿大**  
+麦吉尔大学/McGill：加拿大tier1，地理位置优越，IT实力强  
+**德国**  
+斯图加特大学/Stuttgart：德国TU9，工科实力强劲，地理位置优越  
+另外，作为美国内部的plan B，在接受了UW的offer以后，也另外defer或留了一些学校以备不时之需，包括USC ECE(MLDS)的2021spring入学，USC EE的2021fall入学，以及西北大学有效期到8月可defer的offer。
