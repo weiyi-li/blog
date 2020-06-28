@@ -115,7 +115,7 @@ Personal Statement和Statement of Purpose就是最主要的文书，里面的内
 **新加坡**  
 南洋理工大学（Signal Processing）：亚洲tier1，除欧美以外的工科名校  
 **澳大利亚**  
-悉尼大学（IT）：名气大，出结果快
+悉尼大学（IT）：名气大，出结果快  
 上述学校为2020fall的申请。不过由于2020年春天以来美国政策的收紧和形势的恶化，作为美国以外的plan B，我在拿到所有2020fall的offer之后，在2020年5月又申请了一些其他国家学校2021spring/summer的入学。  
 **加拿大**  
 麦吉尔大学：加拿大tier1，地理位置优越，IT实力强  
