@@ -184,5 +184,8 @@ CMU ECE & SE, Pittsburgh or Silicon Valley（名声、就业满分，bar没有SC
 UPenn ROBO/Duke ECE/UIUC ECE/UCSD EC79/UT Austin ECE/Imperial MSc Applied Computational Science and Engineering（几乎全码课，bar各有差别）  
 EIT Digital & InnoEnergy（2年制，欧洲学校双学位）  
 Brown/TAMU CS（转专业比较友好的CS项目）  
-USC CS37/NEU CS Align/UPenn MCIT（转CS神项目，其中CS37面向理工科，MCIT面向文商科）  
+USC CS37/NEU CS Align/UPenn MCIT（转CS神项目，其中CS37面向理工科，MCIT面向文商科） 
+
+## 9. 拿到offer后选校思路
+补充一下关于拿到录取后选校的建议。其实每个人在申请的时候对于各个学校心里都已经有一杆秤了，如果想法没有大的改变，到时候选校问再多的人了解再多的信息也只是证明心仪学校在心中第一感觉的合理性而已。很多EE群里面都在讨论UCSD/UMich/宾大/杜克/UIUC等学校的选择，都是很好的学校，讨论绝对好坏没有意义，自己更喜欢哪个就去。UCSD地点好+tech界名声大，杜克转码课程满分，宾大综合名气满分，UIUC工科实力满分，更需要哪一项直接选择就好了。
 
