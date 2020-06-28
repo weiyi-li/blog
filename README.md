@@ -88,10 +88,10 @@ Personal Statement和Statement of Purpose就是最主要的文书，里面的内
 ## 2. 个人申请背景
 BG：XJTLU 4+X EST专业  
 GPA：69/66/79，WES 3.76/4.0  
-实习：EE研发实习  
-科研：本校数学系SURF和ML lab水科研  
 TOEFL: 106 (S26)  
 GRE: V150+Q168+AW3.5  
+实习：EE研发实习  
+科研：本校数学系SURF和ML lab水科研  
 推荐信：本校课程老师，SURF、FYP导师，实习mentor  
 
 ## 3. 专业选择思路
