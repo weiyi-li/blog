@@ -5,14 +5,15 @@ by WY
 1. 申请材料（适用所有专业）  
 2. 申请背景  
 3. 专业选择思路  
-4. 选校思路  
+4. 定位选校思路  
 5. 申请结果  
 6. 时间线  
 7. 2021补申  
 8. 其他院校推荐  
-9. 申请感想+tips  
-10. XJTLU电气系生存指南  
-11. XJTLU电气系2020fall申请情况  
+9. 拿到offer后选校思路
+10. 申请感想+tips  
+11. XJTLU电气系生存指南  
+12. XJTLU电气系2020fall申请情况  
 
 ## 1. 申请材料（适用所有专业）  
 ### 1.1 GPA/成绩单  
@@ -169,9 +170,19 @@ Mich/UCSD/UW/杜克/USC/NYU/西北等，以上每所学校今年在2和4两边
 9.19：USYD  
 
 ## 7. 2021补申
+在时代大潮的裹挟下，很多事情都不会跟预想得一样了。16/17年浮现去美国读研的想法时美国的学习工作政策是最好的，当时不怎么check的5年签+CBT+OPT+H1B值得被无脑吹。但三四年后美国早就不是最好留的国家了，即使是CS专业，这方面还远不如英国。所以我也建议大家多国混申，等offer到手后再综合多方因素作出判断，多一些plan B是这个时代面对多变形势的唯一选择。  
 由于2020年春天以来美国政策的收紧和形势的恶化，不得不申请一些美国以外的学校作为升学方向的plan B。我在拿到所有2020fall的offer之后，在2020年5月又申请了一些其他国家学校2021spring/summer的入学。  
 **加拿大**  
 麦吉尔大学/McGill：加拿大tier1，地理位置优越，IT实力强  
 **德国**  
 斯图加特大学/Stuttgart：德国TU9，工科实力强劲，地理位置优越  
 另外，作为美国内部的plan B，在接受了UW的offer以后，也另外defer或留了一些学校以备不时之需，包括USC ECE(MLDS)的2021spring入学，USC EE的2021fall入学，以及西北大学有效期到8月可defer的offer。
+
+## 8. 其他院校推荐
+在申请结束后通过与其他同学们的交流，还了解到以下一些自己没申请但名声、课程或安排很好的神项目，非常推荐。
+CMU ECE & SE（名声满分，bar没有SCS高）  
+UPenn ROBO/Duke ECE/UIUC ECE/UCSD EC79/UT Austin ECE/Imperial MSc Applied Computational Science and Engineering（几乎全码课，bar各有差别）  
+EIT Digital & InnoEnergy（2年制，欧洲学校双学位）  
+Brown/TAMU CS（转专业比较友好的CS项目）  
+USC CS37/NEU CS Align/UPenn MCIT（转CS神项目，其中CS37面向理工科，MCIT面向文商科）  
+
