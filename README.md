@@ -179,8 +179,8 @@ Mich/UCSD/UW/杜克/USC/NYU/西北等，以上每所学校今年在2和4两边
 另外，作为美国内部的plan B，在接受了UW的offer以后，也另外defer或留了一些学校以备不时之需，包括USC ECE(MLDS)的2021spring入学，USC EE的2021fall入学，以及西北大学有效期到8月可defer的offer。
 
 ## 8. 其他院校推荐
-在申请结束后通过与其他同学们的交流，还了解到以下一些自己没申请但名声、课程或安排很好的神项目，非常推荐。
-CMU ECE & SE（名声满分，bar没有SCS高）  
+在申请结束后通过与其他同学们的交流，还了解到以下一些自己没申请但名声、课程或安排很好的神项目，非常推荐。  
+CMU ECE & SE, Pittsburgh or Silicon Valley（名声、就业满分，bar没有SCS高）  
 UPenn ROBO/Duke ECE/UIUC ECE/UCSD EC79/UT Austin ECE/Imperial MSc Applied Computational Science and Engineering（几乎全码课，bar各有差别）  
 EIT Digital & InnoEnergy（2年制，欧洲学校双学位）  
 Brown/TAMU CS（转专业比较友好的CS项目）  
