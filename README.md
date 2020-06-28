@@ -158,14 +158,14 @@ Mich/UCSD/UW/杜克/USC/NYU/西北等，以上每所学校今年在2和4两边
 对于我个人2020fall的申请，时间线如下：  
 5.5 Imperial Medical Robotics and Image Guided Intervention **Waitlist**，前一个志愿出太迟了，估计暂时是录满了得着被等捞上来，可能跟IC确实没有缘分吧  
 4.20 NTU Signal Processing **AD**  
-4.4 Imperial IC Design **Rej**，分不够没啥好说的，IC EE系要求越来越高了  
-3.21 Northwestern EE **AD**，所有美国学校以全录取结束战斗～  
-3.20 UCSD EC82 **AD**，事实证明在其他方面没短板的情况下GRE低一些也真的没什么关系，我GRE分数离UCSD的录取平均分差了6分，还是录取了，从其他各学校的录取来看GRE之类的标化成绩也确实有淡化的趋势  
+4.4 Imperial IC Design **Rej**，分数不够，IC EE系要求越来越高了  
+3.21 Northwestern EE **AD**，美国学校结果全部放出  
+3.20 UCSD EC82 **AD**  
 3.7 UCI EE **AD**，需要上传资金证明再下offer也是有点奇葩，面向金钱录取可还行  
-2.27 UW EE **AD**，说实话这个被录取是很开心的，不过UW属实钢铁直男，网申系统玩文艺复兴，pdf的offer letter都不给，只知道埋头办事  
-2.21 UPenn EE **AD**，这个冲刺的也录取了，6.1前作出决定  
+2.27 UW EE **AD**，UW属实钢铁直男，网申系统玩文艺复兴，pdf的offer letter都不给，只知道埋头办事  
+2.21 UPenn EE **AD**  
 2.8 NEU ECE **AD**  
-2.7 Purdue ECE **AD**，真的是意料之外，方向很喜欢了（2.11发来正式admission）  
+2.7 Purdue ECE **AD**，意料之外（2.11发来正式admission）  
 1.14 USC EE General & ECE(MLDS) **AD**  
 12.20 NYU EE **Offer** with $7000/yr，脱离失学状态  
 9.26 USYD IT **Rej**：专业领域不符，保的底被拒了有点意外，不过想了想软件那边bar越来越高也没错，本来就是转专业申请，认了  
