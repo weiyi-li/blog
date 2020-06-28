@@ -154,7 +154,7 @@ Mich/UCSD/UW/杜克/USC/NYU/西北等，以上每所学校今年在2和4两边
 未出（Pending）：McGill/Stuttgart  
 
 ## 6. 时间线
-一般大多数学校的申请都需要在大四上学期提交，英国的申请在10月11月左右就可以提交，特别是像帝国理工这种分第一第二志愿的千万不能迟交，如果第一志愿被拒有足够的时间转入第二志愿审理。美国大学fall学期的申请deadline一般分为12.15前和12.15后，其中在12.15后的deadline大概是1.15/2.1/2.15这几个日期，根据学校各不相同。12.15的deadline时间比较紧张，需要在11月前就完成所有标化考试，并且在不晚于11月进行语言和GRE成绩的送分和匹配，同时文书等材料需要在11月底全部就位投递。如果有些大学的申请分为优先deadline和最终deadline，如果条件允许还是在优先deadline提交为好，因为优先deadline相比之下在审理和奖学金发放上确实会有更高的优先级。举例，[纽约大学](https://engineering.nyu.edu/admissions/graduate/apply/application-deadlines)Tandon工学院多数硕士专业优先deadline为12.15，而最终deadline为2.1。我在优先deadline前提交了申请，几天之后的12.20就下了offer，早拿早放心；如果等到1月份再赶最终deadline才提交是不可能这么快出结果的。
+一般大多数学校的申请都需要在大四上学期提交，英国的申请在10月11月左右就可以提交，特别是像帝国理工这种分第一第二志愿的千万不能迟交，如果第一志愿被拒有足够的时间转入第二志愿审理。美国大学fall学期的申请deadline一般分为12.15前和12.15后，其中在12.15后的deadline大概是1.15/2.1/2.15这几个日期，根据学校各不相同。12.15的deadline时间比较紧张，需要在11月前就完成所有标化考试，并且在不晚于11月进行语言和GRE成绩的送分和匹配，同时文书等材料需要在11月底全部就位投递。如果有些大学的申请分为优先deadline和最终deadline，如果条件允许还是在优先deadline提交为好，因为优先deadline相比之下在审理和奖学金发放上确实会有更高的优先级。举例，[纽约大学](https://engineering.nyu.edu/admissions/graduate/apply/application-deadlines)Tandon工学院多数硕士专业优先deadline为12.15，而最终deadline为2.1。我在优先deadline前提交了申请，几天之后的12.20就下了offer，早拿早放心；如果等到1月份再赶最终deadline才提交是不可能这么快出结果的。  
 对于我个人2020fall的申请，时间线如下：  
 5.5 Imperial Medical Robotics and Image Guided Intervention **Waitlist**，前一个志愿出太迟了，估计暂时是录满了得着被等捞上来，可能跟IC确实没有缘分吧  
 4.20 NTU Signal Processing **AD**  
