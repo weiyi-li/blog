@@ -42,7 +42,7 @@ by WY
 
 **MTH101 Engineering Mathematics I**  
 5CR，授课：Tai-jun Chen，Xinyao Yang  
-主要内容包括复变函数、ODE等知识点，考试不算简单，解题方法需要花较多时间琢磨。
+主要内容包括复变函数、拉普拉斯变换，ODE等知识点，考试不算简单，解题方法需要花较多时间琢磨。
 
 **大二下学期**  
 **EEE104 Digital Electronics I**  
@@ -80,10 +80,12 @@ by WY
 **大三上学期**  
 **EEE201 CMOS Digital Integrated Circuits**  
 2.5CR, 授课：Sang Lam  
+主要内容包括CMOS器件的工作原理和性质，CMOS器件相关逻辑电路（如反相器、NAND/NOR门）以及对CMOS器件的某些改进和应用。Sang Lam老师在授课中例题很少，注重理解，考试主要考察原理的掌握，每一年题目样式与往年试卷差别较大，但考察知识点和原理类似。作业包括CMOS性质相关的问题，以及通过定义版图和掩模完成一个CMOS器件的版图设计。
 
 **EEE203+EEE204/CAN207 Continuous and Discrete Time Signals and Systems**  
 5CR, 授课：Jimin Xiao  
 课本：_Signal and Systems_ by A. V. Oppenheimer  
+核心专业课的重中之重，开始讲授一个全新的方向：信号与系统。分为两个部分，连续信号与系统(原EEE203)和离散信号与系统(原EEE204)。连续信号与系统部分主要内容包括信号和系统的定义、分类和性质，信号运算（卷积及其性质），时频变换（傅里叶变换）以及S变换（拉普拉斯变换）。离散信号与系统部分主要包括离散信号的定义、分类和性质，采样，时频变换（离散时间傅里叶变换/离散傅里叶变换）以及Z变换。同时离散部分的知识也会注重连续与离散之间的联系及其变换方法。信号与系统对数学要求较高，基本就是数学在某个方向上的应用，概念全新，需要着重理解复习。
 
 **EEE205 Digital Electronics II**  
 2.5CR, 授课：Ming Xu  
