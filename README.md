@@ -268,7 +268,7 @@ fer变废纸，XJTLU申IC EE分不够的话估计还不如隔壁SUDA。新加坡
 **EEE212/MEC202 Industrial Awareness and Group Project**  
 2.5CR, 授课：Tiew On Ting  
 
-**EEE216/CPT210 Microprocessor Systems**
+**EEE216/CPT210 Microprocessor Systems**  
 2.5CR, 授课：Anthony Centeno(已离职，可能换成Suneel Kommuri)  
 
 **EEE218/CAN206 RF Engineering and Applied Electromagnetics**  
