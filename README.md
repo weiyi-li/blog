@@ -36,7 +36,7 @@ A多少，直接用百分制英制原始分申请即可。在美国申请中，�
 
 ### 1.2 学位证明
 部分美国学校在申请中会要求申请者提交学位证明[Degree conferral/Proof of degree](https://engineering.nyu.edu/admissions/graduate/apply/requirements)。已毕业申请者扫描学位证即可，未毕业的在校申请者可以使用在读证明作为何时获得哪所学校学位的证明。  
-德国大学的研究生项目要求申请者上传Hochschulzugangsberechtigung(大学入学文件)，此处提供高中毕业证书、高考录取花名册及其公证翻译件即可。若需要Bachelorzeugnis(学士学位证书)，同样使用学位证（毕业生）或在读证明（在校生）。另外，中国学生如果仅在内地高校获得了学位，则需要在德国驻华使馆留德人员审核部进行[APS认证](https://www.aps.org.cn/zh/)，手续较为繁杂，需要进行面谈等审核流程。  
+德国大学的研究生项目要求申请者上传Hochschulzugangsberechtigung(大学入学文件)，此处提供高中毕业证书、高考录取花名册及其公证翻译件即可。若需要Bachelorzeugnis(学士学位证书)，同样使用学位证（毕业生）或在读证明（在校生）。另外，中国学生如果仅在内地高校获得了学位，则需要在德国驻华使馆留德人员审核部进行[APS认证](https://www.aps.org.cn/zh/)，手续较为繁杂，需要进行面谈等审核流程。[境外学位](https://www.aps.org.cn/zh/studium-in-deutschland/nicht-chinesische-zeugnisse-und-leistungsnachweise)的APS认证可以免除。  
 ```markdown
 XJTLU专区：  
 网申中会要求填写所有学习过的学校的成绩情况，2+2申请时中英都写即可
@@ -47,7 +47,7 @@ XJTLU专区：
 在XJTLU完成学业后获中英双学位”的说明。在美国和新加坡等国的申请中
 ，4+X正式的学位信息仅登记为XJTLU, China，入学核验时也只需出具中
 方学位，英方学位最多在申请中提及即可。  
-另外在德国申请中，陆本获得的中国学位需要做APS，但是[国外学位APS](https://www.aps.org.cn/zh/studium-in-deutschland/nicht-chinesische-zeugnisse-und-leistungsnachweise)
+另外在德国申请中，陆本获得的中国学位需要做APS，但是国外学位的APS
 可以免除。2+2由于在国外获得学位不需要APS认证，4+X应该也可以，但
 由于APS的特殊性，在德国申请中必须提及英方学位，英方学位的重要性比
 美国等国申请要大。
