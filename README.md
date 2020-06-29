@@ -23,18 +23,21 @@ by WY
 由于学校各院系从2020/21学年开始在课程代码和内容安排上有非常大的改动，以下信息中的课号和课程名称为改动后的信息，但各科的教学内容还是沿袭本人自己和其他一些同学对2020/21学年以前课程内容的记忆和想法。如果部分课程教学内容有改动，以最新学年改动之后的信息为准，某些往年的信息，特别是授课老师安排可能已经过时。  
 为了更好地与课程介绍和tips配合，大家可以参考之前另一位EE学长分享过的EE系各课程PPT资源，在[zhengMK的GitHub](https://github.com/zhengMK/EEE_lecture_materials)中可以获取。  
 
-**大二**
-在完成大一的学习后，大二开始学习专业基础课。大二是专业知识入门和循序渐进的过程，好好学习搞懂原理分数上自然会有回报，也能为大三大四核心专业课的学习打下坚实的基础。
+**大二**  
+在完成大一的学习后，大二开始学习专业基础课。大二是专业知识入门和循序渐进的过程，好好学习搞懂原理分数上自然会有回报，也能为大三大四核心专业课的学习打下坚实的基础。  
 **大二上学期**  
 **EEE101/CPT109 C Programming and Software Engineering I**  
 5CR(Credit)，授课：Mark Leach  
-对打下coding基础很有帮助，从基本的变量学起，到之后较难的指针，结构体等知识可以对代码和软件开发有基本了解，养成良好的代码习惯。4个作业，其中3个独立作业，1个小组作业，从第3个作业开始难度加大，王往年是设计小游戏。小组作业中会要求填写贡献表，尽可能多得参与代码主体工作，尽量不要回避技术性任务而光写文字报告。
+对打下coding基础很有帮助，从基本的变量学起，到之后较难的指针，结构体等知识可以对代码和软件开发有基本了解，养成良好的代码习惯。4个作业，其中3个独立作业，1个小组作业，从第2个作业开始难度加大，往年是设计小游戏。小组作业设计信息系统设计，会要求填写贡献表，尽可能多得参与代码主体工作，尽量不要回避技术性任务而光写文字报告。
 
 **EEE103 Electrical Circuits**  
 5CR，授课：Tiew On Ting  
+课本：_Engineering Circuits Analysis_ by W. H. Hayt _et al._
+作为电路分析的基础课
 
 **EEE109 Electronic Circuits**  
 5CR，授课：Yujia Zhai，Quan Zhang  
+课本：_Microelectronics - Circuit Analysis and Design_ by D. A. Neamen
 
 **MTH101 Engineering Mathematics I**  
 5CR，授课：Tai-jun Chen，Xinyao Yang  
@@ -42,6 +45,7 @@ by WY
 **大二下学期**  
 **EEE104 Digital Electronics I**  
 2.5CR，授课：Ming Xu  
+课本：_Digital Fundamentals_ by T. Floyd
 
 **EEE108/MEC102 Electromagnetism and Electromechanics**  
 5CR，授课：Derek Gray，Jinling Zhang  
@@ -57,11 +61,11 @@ by WY
 
 **EEE102/CPT106 C++ Programming and Software Engineering II(选修)**  
 2.5CR，授课：Qing Liu(可能有改动)  
-在学习C语言之后再学习C++入门成本降低，也有助于将来其他面向对象编程语言的学习。C++被广泛应用于各软件开发岗位，包括后台开发、客户端开发、嵌入式软件开发等等，掌握相关基础知识和解题思维对将来接触开发工作非常有帮助。
+在学习C语言之后再学习C++入门成本降低，也有助于将来其他面向对象编程语言的学习，只有4个作业没有考试。C++被广泛应用于各软件开发岗位，包括后台开发、客户端开发、嵌入式软件开发等等，掌握相关基础知识和解题思维对将来接触开发工作非常有帮助。
 
 **EEE118/MEC106 Engineering Drawing(选修)**  
 2.5CR，授课：Chun Zhao  
-不太想做或不适应代码工作，对结构设计感兴趣，平时想减少workload可以考虑选修。使用绘图工具和CAD进行工程制图，对结构设计帮助较大，
+不太想做或不适应代码工作，对结构设计感兴趣，平时想减少workload可以考虑选修。使用绘图工具和CAD进行工程制图，对结构设计帮助较大。
 
 **大三**  
 大三对于有计划申请国外研究生的同学来说是至关重要的一年，最为重要的目标就是提高分数，也就是刷分。大三是高强度核心专业课的学习开端，不仅在英研中是最重要的一年，在美国申请中也可以利用大三专业课集中、刷分氛围好的特点获得高分拔高GPA。绝大多数同学在大三都会火力全开，学习氛围极其浓厚，很多大一大二分数并不特别满意的同学大三的均分都会比大二提高十分左右乃至更多。在大三获得满意的分数，学习电子电气各方向的核心理论知识，对之后研究生申请和将来实习工作都帮助巨大。
@@ -72,6 +76,7 @@ by WY
 
 **EEE203+EEE204/CAN207 Continuous and Discrete Time Signals and Systems**  
 5CR, 授课：Jimin Xiao  
+课本：_Signal and Systems_ by A. V. Oppenheimer  
 
 **EEE205 Digital Electronics II**  
 2.5CR, 授课：Ming Xu  
@@ -103,6 +108,7 @@ by WY
 
 **EEE220/MEC208 Instrumentation and Control System**  
 5CR, 授课：Qing Liu  
+课本：_Modern Control Systems_ by R. Dorf and R. Bishop
 
 **大四**  
 
@@ -124,6 +130,7 @@ by WY
 
 **EEE307 Electronics for Communications(选修)**  
 2.5CR，授课：Sang Lam  
+课本：_RF Microelectronics_ by B. Razavi  
 
 **大四下学期**  
 **EEE310/MEC302 Embedded Computer Systems**  
