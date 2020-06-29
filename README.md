@@ -38,7 +38,7 @@ by WY
 **EEE109 Electronic Circuits**  
 5CR，授课：Yujia Zhai，Quan Zhang  
 课本：_Microelectronics - Circuit Analysis and Design_ by D. A. Neamen
-半导体电子和模拟电路入门课，主要章节包括二极管，BJT，MOS等器件的原理，以及共射，共集，共基等模拟电路基本结构和模电电路分析。各级同学普遍反映难度较大，但作为半导体器件和模电的基础，起码需要对原理和基本分析方法有所掌握。
+半导体电子和模拟电路入门课，主要章节包括二极管，BJT，MOS等器件的原理，以及共射，共集，共基等模拟电路基本结构和模电电路分析（包括小信号分析）。各级同学普遍反映难度较大，但作为半导体器件和模电的基础，起码需要对原理和基本分析方法有所掌握。
 
 **MTH101 Engineering Mathematics I**  
 5CR，授课：Tai-jun Chen，Xinyao Yang  
@@ -89,15 +89,19 @@ by WY
 
 **EEE205 Digital Electronics II**  
 2.5CR, 授课：Ming Xu  
+进阶版数字电路，引入HDL等新知识(EEE205使用AHDL，比较过时但原理类似)描述规模更大更复杂的组合逻辑电路，包括使用Quine-McCluskey算法化简布尔逻辑。此外还有状态机等用于描述组合逻辑电路的方法等，考试中需要熟练掌握状态转换表、状态机和逻辑电路之间的等价转换。
 
 **EEE211 Electronic Circuits and Systems**  
 5CR, 授课：Sanghyuk Lee  
+进阶版模拟电路，主要内容包括模拟电路分析（包括小信号分析），放大电路，反馈。在更复杂的模电分析中，加入了包括电流镜和差分电路在内的基本模型，相关公式推导必须掌握。
 
 **EEE225/MEC201 Advanced Electrical Circuits and Electromagnetics**  
 5CR, 授课：Zhao Wang  
+2018年才设立的新课，分为进阶版电路分析和进阶版电磁学两部分。进阶版电路分析包括RLC电路，滤波器，频率响应，耦合电路，电路的瞬态分析，三相电等内容，难度不小，需要在课后进行大量整理。进阶版电磁学内容包括静电学和静磁学，电磁相关定律，以及传输线和电磁波等应用。Zhao Wang老师喜欢出新题，必须掌握原理，光做往年试卷可能用处不会有想象中得大。
 
 **MTH201 Engineering Mathematics III**  
 2.5CR, 授课：Shiyan Guo  
+主要内容有场论、PDE和傅里叶级数。数学系的老师都很认真，每个tutorial都要重视，原理、例题和方法最好都掌握。
 
 **大三下学期**  
 **EEE202/CAN202 Analogue and Digital Communications I**  
