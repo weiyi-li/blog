@@ -127,7 +127,7 @@ by WY
 
 **EEE220/MEC208 Instrumentation and Control System**  
 5CR, 授课：Qing Liu  
-课本：_Modern Control Systems_ by R. Dorf and R. Bishop
+课本：_Modern Control Systems_ by R. Dorf and R. Bishop  
 主要内容包括开环闭环系统，系统的多种描述方式（信号流图、微分方程、框图、状态空间模型），瞬态、稳态响应，零极点，精度、误差，性质判断（根轨迹图、伯德图、奈奎斯特图），PID控制等等。控制系统也是首次接触，某些概念和原理可能需要课后复习。期末考试计算量不小，分式较多容易写错，需要细心。
 
 #### 1.1.3 大四  
