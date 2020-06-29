@@ -238,49 +238,47 @@ fer变废纸，XJTLU申IC EE分不够的话估计还不如隔壁SUDA。新加坡
 ```
 
 ## 11. XJTLU电气系生存指南
-大三上学期
-EEE201 CMOS Digital Integrated Circuits  
+由于学校各院系从2020/21学年开始在课程代码和内容安排上有非常大的改动，以下信息中的课号和课程名称为改动后的信息，但各科的教学内容还是沿袭本人自己对2020/21学年以前课程内容的记忆和想法。如果部分课程教学内容有改动，以最新学年改动之后的信息为准，请谅解。  
+大三上学期  
+**EEE201 CMOS Digital Integrated Circuits**  
 2.5CR(Credit), 授课：Sang Lam  
 
-EEE203+EEE204/CAN207 Continuous and Discrete Time Signals and Systems  
+**EEE203+EEE204/CAN207 Continuous and Discrete Time Signals and Systems**  
 5CR, 授课：Jimin Xiao  
 
-EEE205 Digital Electronics II  
+**EEE205 Digital Electronics II**  
 2.5CR, 授课：Ming Xu  
 
-EEE211 Electronic Circuits and Systems  
+**EEE211 Electronic Circuits and Systems**  
 5CR, 授课：Sanghyuk Lee  
 
-EEE225/MEC201 Advanced Electrical Circuits and Electromagnetics  
+**EEE225/MEC201 Advanced Electrical Circuits and Electromagnetics**  
 5CR, 授课：Zhao Wang  
 
-MTH201 Engineering Mathematics III  
+**MTH201 Engineering Mathematics III**  
 2.5CR, 授课：Shiyan Guo  
 
-大三下学期
-EEE202/CAN202 Analogue and Digital Communications I  
+大三下学期  
+**EEE202/CAN202 Analogue and Digital Communications I**  
 2.5CR, 授课：Yanyan Wu  
 
-EEE204 Continuous and Discrete Time Signals and Systems II  
-2.5CR, 授课：Jimin Xiao  
-
-EEE210 Energy Conversion and Power Systems  
+**EEE210 Energy Conversion and Power Systems**  
 2.5CR, 授课：Tiew On Ting  
 
-EEE212/MEC202 Industrial Awareness and Group Project  
+**EEE212/MEC202 Industrial Awareness and Group Project**  
 2.5CR, 授课：Tiew On Ting  
 
-EEE216/CPT210 Microprocessor Systems  
-2.5CR, 授课：Anthony Centeno  
+**EEE216/CPT210 Microprocessor Systems**
+2.5CR, 授课：Anthony Centeno(已离职，可能换成Suneel Kommuri)  
 
-EEE218/CAN206 RF Engineering and Applied Electromagnetics  
+**EEE218/CAN206 RF Engineering and Applied Electromagnetics**  
 2.5CR, 授课：Mark Leach  
 
-EEE220/MEC208 Instrumentation and Control System  
+**EEE220/MEC208 Instrumentation and Control System**  
 5CR, 授课：Qing Liu  
 
 ## 12. XJTLU电气系2020fall申请情况
-**Notice：本章节仅能部分体现XJTLU EE系2+2和4+X国外研究生2020fall申请情况，不适用于其他学校和院系以及其他申请时间；若信息有误或需要补充，欢迎[指正](https://github.com/weiyi-li)**  
+**Notice：本章节仅能部分体现XJTLU EE系2+2和4+X国外研究生2020fall申请情况，不适用于除XJTLU以及其他学校和院系以及其他申请时间；若信息有误或需要补充，欢迎[指正](https://github.com/weiyi-li)**  
 太长不看版：“2+2和4+X美国申请和G5以下学校申请结果都很不错，几乎没区别；某些G5学校的专业2+2略有优势”  
 2+2和4+X的英国EE申请情况略有差别。G5以下学校，4+X不少同学只要60几以上都是布里斯托保底，70几分拿下爱丁堡也比较顺利。2+2也是60几就可以去曼大和KCL，下限比较高，两边类似。但是G5的申请情况4+X略逊于2+2，今年4+X这边IC的offer并没有很多，起码比2+2要少。当然2+2人数本身就比4+X多，不过排除人数差别，这个现象也可能由于两边的分数原因导致。IC录取这么多XJTLU学生，录取门槛早已固化，边缘EECS专业70几下con offer，con2.1；EE系专业80几下con offer，con毕业均分78-85以及FYP分数75-82不等。EE系4+X这边除了EE专业前10%奖学金选手中90+和80几的同学，其他3个专业第一名都只压了80的线，没有到“80几”这个区间，所以去IC EE系专业自然较为困难。而2+2那边80几以上的同学明显多于4+X，所以2+2拿IC EE系offer多一些也可以理解，不过总体来说只要考到那个分(85+)，2+2和4+X英研就几乎没有区别，IC EE系照录不误。不过UCL的个别专业比如Telecommunications是偏向2+2的，拒了4+X 79左右的同学录了2+2 77左右的同学。除此之外2+2和4+X的英研情况没有大的区别。  
 2020fall美国申请人数较少但是结果很不错，我们这届EE系4+X近百人，申请美国的才3个同学；2+2人数一百大几十，大概20多人申请美国，两边加起来美研的一共才20几人。2+2和4+X今年美国申请拿到top30的同学很多，最高可以达到全美专排top5左右(UMich)，康奈尔/宾大/杜克/UW/UCSD/西北/UMich/哥大/USC/NYU等学校都是批量录取(≥4)，不过tier1学校如UCB/CMU的EE专业申请还是较为困难。  
