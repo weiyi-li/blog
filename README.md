@@ -52,15 +52,19 @@ by WY
 
 **EEE108/MEC102 Electromagnetism and Electromechanics**  
 5CR，授课：Derek Gray，Jinling Zhang  
+分为电磁和电机两部分。电磁部分主要讲授各种电磁相关定律并利用定律解题，以及变压器等附加应用；电机部分主要包括直流和交流电机的相关知识。数学要求较高，需要熟练掌握定律原理以及相关公式推导过程。
 
 **EEE112 Integrated Electronics and Design**  
 2.5CR，授课：Chun Zhao  
+主要讲授半导体器件的原理及其制造流程，包括PN结，MOS管和MOS电容等。此外也会通过制造流程引入版图和掩膜的概念，完成一个IC器件的版图设计。
 
 **EEE116/MEC104 Experimental, Computer Skills and Sustainability**  
 5CR  
+计算机和实践技能课，主要部分有通过锡焊制作简单电路，制作智能小车实现功能并完成竞速任务，Matlab作业，以及自由发挥的open project硬件设计小组项目。
 
 **MTH102 Engineering Mathematics II**  
 2.5CR，授课：Giovanni Merola  
+主要内容包含概率论与统计，其中有方差分析，随机过程，概率分布(PDF和CDF)，大数定理，中心极限定理等主要知识点。
 
 **EEE102/CPT106 C++ Programming and Software Engineering II(选修)**  
 2.5CR，授课：Qing Liu(可能有改动)  
