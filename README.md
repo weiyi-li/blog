@@ -237,6 +237,48 @@ fer变废纸，XJTLU申IC EE分不够的话估计还不如隔壁SUDA。新加坡
 同学被自己设想出来的困难劝退了，属实没必要。
 ```
 
+## 11. XJTLU电气系生存指南
+大三上学期
+EEE201 CMOS Digital Integrated Circuits  
+2.5CR(Credit), 授课：Sang Lam  
+
+EEE203+EEE204/CAN207 Continuous and Discrete Time Signals and Systems  
+5CR, 授课：Jimin Xiao  
+
+EEE205 Digital Electronics II  
+2.5CR, 授课：Ming Xu  
+
+EEE211 Electronic Circuits and Systems  
+5CR, 授课：Sanghyuk Lee  
+
+EEE225/MEC201 Advanced Electrical Circuits and Electromagnetics  
+5CR, 授课：Zhao Wang  
+
+MTH201 Engineering Mathematics III  
+2.5CR, 授课：Shiyan Guo  
+
+大三下学期
+EEE202/CAN202 Analogue and Digital Communications I  
+2.5CR, 授课：Yanyan Wu  
+
+EEE204 Continuous and Discrete Time Signals and Systems II  
+2.5CR, 授课：Jimin Xiao  
+
+EEE210 Energy Conversion and Power Systems  
+2.5CR, 授课：Tiew On Ting  
+
+EEE212/MEC202 Industrial Awareness and Group Project  
+2.5CR, 授课：Tiew On Ting  
+
+EEE216/CPT210 Microprocessor Systems  
+2.5CR, 授课：Anthony Centeno  
+
+EEE218/CAN206 RF Engineering and Applied Electromagnetics  
+2.5CR, 授课：Mark Leach  
+
+EEE220/MEC208 Instrumentation and Control System  
+5CR, 授课：Qing Liu  
+
 ## 12. XJTLU电气系2020fall申请情况
 **Notice：本章节仅能部分体现XJTLU EE系2+2和4+X国外研究生2020fall申请情况，不适用于其他学校和院系以及其他申请时间；若信息有误或需要补充，欢迎[指正](https://github.com/weiyi-li)**  
 太长不看版：“2+2和4+X美国申请和G5以下学校申请结果都很不错，几乎没区别；某些G5学校的专业2+2略有优势”  
