@@ -240,9 +240,9 @@ fer变废纸，XJTLU申IC EE分不够的话估计还不如隔壁SUDA。新加坡
 ## 11. XJTLU电气系生存指南
 ### 课程介绍+tips
 下面分课程写一下电气系4+X各年级课程的介绍和tips，由于EE系中各专业课程略有区别（电气系专业中，EE，通信和EST专业大二大三的课程完全相同，大四课程则大不一样），下列课程列表将会以我所在的EST专业为例。不过EST专业和其他专业课程的详细信息见e桥Programmes and Modules中的Programme Specification和Module Specification。2+2电气系各年级选课和课程介绍见[利物浦大学](https://www.liverpool.ac.uk/study/undergraduate/courses/electrical-engineering-and-electronics-beng-hons/module-details/)官网中的课程列表。
-由于学校各院系从2020/21学年开始在课程代码和内容安排上有非常大的改动，以下信息中的课号和课程名称为改动后的信息，但各科的教学内容还是沿袭本人自己对2020/21学年以前课程内容的记忆和想法。如果部分课程教学内容有改动，以最新学年改动之后的信息为准，请谅解。 
-为了更好地与课程介绍和tips配合，大家可以参考之前另一位EE学长分享过的EE系各课程PPT资源，在[zhengMK的GitHub](https://github.com/zhengMK/EEE_lecture_materials)中可以获取。
-大三上学期  
+由于学校各院系从2020/21学年开始在课程代码和内容安排上有非常大的改动，以下信息中的课号和课程名称为改动后的信息，但各科的教学内容还是沿袭本人自己对2020/21学年以前课程内容的记忆和想法。如果部分课程教学内容有改动，以最新学年改动之后的信息为准，某些上一学年的信息可能已经过时。  
+为了更好地与课程介绍和tips配合，大家可以参考之前另一位EE学长分享过的EE系各课程PPT资源，在[zhengMK的GitHub](https://github.com/zhengMK/EEE_lecture_materials)中可以获取。  
+**大三上学期**  
 **EEE201 CMOS Digital Integrated Circuits**  
 2.5CR(Credit), 授课：Sang Lam  
 
@@ -261,7 +261,7 @@ fer变废纸，XJTLU申IC EE分不够的话估计还不如隔壁SUDA。新加坡
 **MTH201 Engineering Mathematics III**  
 2.5CR, 授课：Shiyan Guo  
 
-大三下学期  
+**大三下学期**  
 **EEE202/CAN202 Analogue and Digital Communications I**  
 2.5CR, 授课：Yanyan Wu  
 
@@ -279,6 +279,33 @@ fer变废纸，XJTLU申IC EE分不够的话估计还不如隔壁SUDA。新加坡
 
 **EEE220/MEC208 Instrumentation and Control System**  
 5CR, 授课：Qing Liu  
+
+**大四**  
+**EEE311/SAT301 Final Year Project(FYP)**  
+10CR，两学期完成
+
+**大四上学期**
+**EEE301/CAN303 Analogue and Digital Communications II**  
+2.5CR, 授课：Kyeongsoo Kim(代课，可能会恢复为Yanyan Wu)  
+
+**EEE309 Electronics for Instrumentation**  
+2.5CR，授课：Sanghyuk Lee  
+
+**EEE337 Integrated Circuits – Concepts and Design**  
+5CR，授课：Cezhou Zhao  
+
+**EEE339 Digital System Design with HDL**  
+5CR，授课：Ming Xu  
+
+**EEE307 Electronics for Communications(Optional)**  
+2.5CR，授课：Sang Lam  
+
+**大四下学期**  
+**EEE310/MEC302 Embedded Computer Systems**  
+2.5CR，授课：Suneel Kommuri  
+
+**EEE314 Introduction to Optoelectronics and Photonics**  
+5CR，授课：Sang Lam  
 
 ### 2+2 or 4+X
 这个问题是老生常谈了。成绩方面，2+2对于电气系所有分数区间的全体同学来说，综合来看可能能提点分，但2+2绝对不是提分的必要条件，不是说2就一定能提分，大多还是看自己。是有不少比较厉害的同学大一大二在XJTLU就能80+，在利物浦大学继续冲90+；但也有不少同学2去利物浦以后大三分数可能还不如大二相似水平的4+X同学。另外2+2选课比4+X要更加灵活自由。  
