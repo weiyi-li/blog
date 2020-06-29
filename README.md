@@ -138,32 +138,41 @@ by WY
 **大四上学期**
 **EEE301/CAN303 Analogue and Digital Communications II**  
 2.5CR, 授课：Kyeongsoo Kim(代课，可能会恢复为Yanyan Wu)  
+主要讲授通信系统中数字信号的处理。主要内容包括随机过程，二进制与M进制数字信号调制与解调，二进制与M进制数字信号的传输与接受，以及相移键控、相干接收等涉及数字信号的处理方式。
 
 **EEE309 Electronics for Instrumentation**  
 2.5CR，授课：Sanghyuk Lee  
+类似EEE211，这门课还是注重模拟电路。主要内容是对运算放大器组成的反馈系统进行包括频率响应和稳定性在内的分析。
 
 **EEE337 Integrated Circuits – Concepts and Design**  
 5CR，授课：Cezhou Zhao  
+主要注重CMOS器件和电路的工作原理与设计，有4个大作业以及期末考试，其中作业使用EDA工具进行集成电路设计，每次完成设计后还需要写设计报告，前半学期workload大。
 
 **EEE339 Digital System Design with HDL**  
 5CR，授课：Ming Xu  
+主要内容为部分计算机体系结构中的工作原理（如流水线）以及使用Verilog HDL设计数字系统。课程容量多，难度较大，2个大作业的workload也很大，一个是数字钟的Verilog设计，另一个是补全32位处理器的设计。
 
 **EEE307 Electronics for Communications(选修)**  
 2.5CR，授课：Sang Lam  
 课本：_RF Microelectronics_ by B. Razavi  
+主要内容包括射频器件和电路的结构，工作原理和应用，包括LNA，混频器，振荡器，锁相环，功率放大器等。有一个大作业要求设计一个RF电路并拍视频作设计思路，原理讲解与功能展示。这门课仍然没有什么例题，不好复习，考试主要考察原理，往年题目参考价值不是很大，仅需参考题目提问的原理即可。
 
 **大四下学期**  
 **EEE310/MEC302 Embedded Computer Systems**  
 2.5CR，授课：Suneel Kommuri  
+主要内容为嵌入式系统的应用，嵌入式处理器的结构与原理，内存结构，I/O原理等。
 
 **EEE314 Introduction to Optoelectronics and Photonics**  
 5CR，授课：Sang Lam  
+主要内容为光子学和光电，包括光学相关定理，光纤，LED，光电探测器，光伏设备的原理与应用等等，没有期末考试。
 
 **EEE336/CAN310 Signal Processing and Digital Filtering(选修)**  
 5CR，授课：Zhao Wang  
+主要内容为进阶版信号处理，包括采样量化，DTFT，DFT，FFT，Z变换，FIR，IIR等内容。必须掌握各信号处理方式的原理，考试出原题概率小。
 
 **EEE332 Micro and Nano-manufacturing Technology(选修)**  
 5CR，授课：Cezhou Zhao  
+主要内容为集成电路器件的制造流程和制造工艺，可以进入超净间进行实验，与EEE337集成电路设计相辅相成，有助于对集成电路设计以及集成电路器件的制造和工艺有完整的理解和项目经历。
 
 ### 1.2 2+2 or 4+X
 这个问题是老生常谈了。成绩方面，2+2对于电气系所有分数区间的全体同学来说，综合来看可能能提点分，但2+2绝对不是提分的必要条件，不是说2就一定能提分，大多还是看自己。是有不少比较厉害的同学大一大二在XJTLU就能80+，在利物浦大学继续冲90+；但也有不少同学2去利物浦以后大三分数可能还不如大二相似水平的4+X同学。另外2+2选课比4+X要更加灵活自由。  
