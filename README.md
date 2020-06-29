@@ -46,7 +46,11 @@ XJTLU专区：
 上Academic Records处的XJTLU Statement加入成绩单文件，其中有“
 在XJTLU完成学业后获中英双学位”的说明。在美国和新加坡等国的申请中
 ，4+X正式的学位信息仅登记为XJTLU, China，入学核验时也只需出具中
-方学位，英方学位最多在申请中提及即可。
+方学位，英方学位最多在申请中提及即可。  
+另外在德国申请中，陆本获得的中国学位需要做APS，但是[国外学位APS](https://www.aps.org.cn/zh/studium-in-deutschland/nicht-chinesische-zeugnisse-und-leistungsnachweise)
+可以免除。2+2由于在国外获得学位不需要APS认证，4+X应该也可以，但
+由于APS的特殊性，在德国申请中必须提及英方学位，英方学位的重要性比
+美国等国申请要大。
 ```
 
 ### 1.3 语言成绩
