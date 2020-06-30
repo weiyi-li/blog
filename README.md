@@ -19,7 +19,7 @@ by WY
 
 ## 1. XJTLU电气系生存指南
 ### 1.1 课程攻略+tips
-这部分内容包含电气系4+X各年级课程的介绍和tips，由于EE系中各专业课程略有区别（电气系专业中，EE，通信和EST专业大二大三的课程完全相同，大四课程则大不一样），下列课程列表将会以我所在的EST专业为例。不过EST专业和其他专业课程的详细信息见e桥Programme and Module中的Programme Specification和Module Specification。2+2电气系各年级选课和课程介绍见[利物浦大学](https://www.liverpool.ac.uk/study/undergraduate/courses/electrical-engineering-and-electronics-beng-hons/module-details/)官网中的课程列表。  
+这部分内容包含电气系4+X各年级课程的介绍和tips，由于EE系中各专业课程略有区别（电气系专业中，EE，通信和EST专业大二大三的课程几乎完全相同，大四课程则大不一样），下列课程列表将会以我所在的EST专业为例。不过EST专业和其他专业课程的详细信息见e桥Programme and Module中的Programme Specification和Module Specification。2+2电气系各年级选课和课程介绍见[利物浦大学](https://www.liverpool.ac.uk/study/undergraduate/courses/electrical-engineering-and-electronics-beng-hons/module-details/)官网中的课程列表。  
 由于学校各院系从2020/21学年开始在课程代码和内容安排上有非常大的改动，以下信息中的课号和课程名称为改动后的信息，但各科的教学内容还是沿袭本人自己和其他一些同学对2020/21学年以前课程内容的记忆和想法。如果部分课程教学内容有改动，以最新学年改动之后的信息为准，某些往年的信息，特别是授课老师安排可能已经过时。  
 为了更好地与课程介绍和tips配合，大家可以参考之前另一位EE学长分享过的EE系各课程PPT资源，在[zhengMK的GitHub](https://github.com/zhengMK/EEE_lecture_materials)中可以获取。  
 
@@ -33,12 +33,12 @@ by WY
 
 **EEE103 Electrical Circuits**  
 5CR，授课：Tiew On Ting  
-课本：_Engineering Circuits Analysis_ by W. H. Hayt _et al._
+课本：_Engineering Circuits Analysis_ by W. H. Hayt _et al._  
 作为电路分析的基础课，从最简单的欧姆定律到KVL/KCL，以及戴维南定理和诺顿定理展开，讲授电路分析的思路和各种方法。学期中段开始引入运算放大器，RL/RC电路的稳态分析，AC电路原理和拉普拉斯变换，课程较大但是是重中之重的基础。
 
 **EEE109 Electronic Circuits**  
 5CR，授课：Yujia Zhai，Quan Zhang  
-课本：_Microelectronics - Circuit Analysis and Design_ by D. A. Neamen
+课本：_Microelectronics - Circuit Analysis and Design_ by D. A. Neamen  
 半导体电子和模拟电路入门课，主要章节包括二极管，BJT，MOS等器件的原理，以及共射，共集，共基等模拟电路基本结构和模电电路分析（包括小信号分析）。各级同学普遍反映难度较大，但作为半导体器件和模电的基础，起码需要对原理和基本分析方法有所掌握。
 
 **MTH101 Engineering Mathematics I**  
@@ -48,7 +48,7 @@ by WY
 **大二下学期**  
 **EEE104 Digital Electronics I**  
 2.5CR，授课：Ming Xu  
-课本：_Digital Fundamentals_ by T. Floyd
+课本：_Digital Fundamentals_ by T. Floyd  
 数字电路基础课，从布尔代数入门，讲授卡诺图化简以及布尔逻辑与逻辑门电路的相互等价。之后引入包括锁存器和触发器在内的时序器件和相应的同步与非同步时序电路。学习过程中需要注意某些新概念中的细节，考试中可能有电路设计题。
 
 **EEE108/MEC102 Electromagnetism and Electromechanics**  
@@ -204,10 +204,10 @@ A多少，直接用百分制英制原始分申请即可。在美国申请中，�
 三年全部成绩，用换算过的GPA大致定位后再参考各科的原始分数，尤其是
 专业课水平。XJTLU大一大二的EAP无论是5学分还是10学分在WES认证中
 都会被修改为3学分的ESL课程，其他体育、CCT、二外等课程的学分不变。
-XJTLU的分数进行WES认证会按照英本分数计算，单门70等价A，4.0，65以
-上等价A-，3.67，60以上等价B+，3.33，55以上等价B，3.0，依次类推。
-其他国家如新加坡、澳大利亚等国也是参考3年成绩。英国则是4+X大三
-(即2+2/英本Year2)的成绩尤为重要，大一大二权重较低。
+XJTLU的分数进行WES认证会按照英本分数计算，单门70等价A，4.0，65
+以上等价A-，3.67，60以上等价B+，3.33，55以上等价B，3.0，依次类
+推。其他国家如新加坡、澳大利亚等国也是参考3年成绩。英国则是4+X大
+三(即2+2/英本Year2)的成绩尤为重要，大一大二权重较低。
 ```
 
 ### 3.2 学位证明
