@@ -275,7 +275,7 @@ BG：XJTLU 4+X EST专业
 GPA：69/66/79，WES 3.76/4.0  
 TOEFL: 106(S26)  
 GRE: V150+Q168+AW3.5  
-实习：EE研发实习  
+实习：科学馆STEM课程讲师，电气公司EE研发实习  
 科研：本校数学系SURF和ML lab水科研  
 推荐信：本校课程老师，SURF、FYP导师，实习mentor  
 
