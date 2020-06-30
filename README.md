@@ -19,7 +19,7 @@ by WY
 
 ## 1. XJTLU电气系生存指南
 ### 1.1 课程攻略+tips
-这部分内容包含电气系4+X各年级课程的介绍和tips，由于EE系中各专业课程略有区别（电气系专业中，EE，通信和EST专业大二大三的课程完全相同，大四课程则大不一样），下列课程列表将会以我所在的EST专业为例。不过EST专业和其他专业课程的详细信息见e桥Programme and Module中的Programme Specification和Module Specification。2+2电气系各年级选课和课程介绍见[利物浦大学](https://www.liverpool.ac.uk/study/undergraduate/courses/electrical-engineering-and-electronics-beng-hons/module-details/)官网中的课程列表。
+这部分内容包含电气系4+X各年级课程的介绍和tips，由于EE系中各专业课程略有区别（电气系专业中，EE，通信和EST专业大二大三的课程完全相同，大四课程则大不一样），下列课程列表将会以我所在的EST专业为例。不过EST专业和其他专业课程的详细信息见e桥Programme and Module中的Programme Specification和Module Specification。2+2电气系各年级选课和课程介绍见[利物浦大学](https://www.liverpool.ac.uk/study/undergraduate/courses/electrical-engineering-and-electronics-beng-hons/module-details/)官网中的课程列表。  
 由于学校各院系从2020/21学年开始在课程代码和内容安排上有非常大的改动，以下信息中的课号和课程名称为改动后的信息，但各科的教学内容还是沿袭本人自己和其他一些同学对2020/21学年以前课程内容的记忆和想法。如果部分课程教学内容有改动，以最新学年改动之后的信息为准，某些往年的信息，特别是授课老师安排可能已经过时。  
 为了更好地与课程介绍和tips配合，大家可以参考之前另一位EE学长分享过的EE系各课程PPT资源，在[zhengMK的GitHub](https://github.com/zhengMK/EEE_lecture_materials)中可以获取。  
 
