@@ -43,6 +43,7 @@ by WY
 
 **MTH101 Engineering Mathematics I**  
 5CR，授课：Tai-jun Chen，Xinyao Yang  
+课本：_Advanced Engineering Mathematics_ by E. Kreyszig
 主要内容包括复变函数、拉普拉斯变换，ODE等知识点，考试不算简单，解题方法需要花较多时间琢磨。
 
 **大二下学期**  
