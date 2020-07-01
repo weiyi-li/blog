@@ -80,53 +80,53 @@ by WY
 
 **大三上学期**  
 **EEE201 CMOS Digital Integrated Circuits**  
-2.5CR, 授课：Sang Lam  
+2.5CR，授课：Sang Lam  
 主要内容包括CMOS器件的工作原理和性质，CMOS器件相关逻辑电路（如反相器、NAND/NOR门）以及对CMOS器件的某些改进和应用。Sang Lam老师在授课中例题很少，注重理解，考试主要考察原理的掌握，每一年题目样式与往年试卷差别较大，但考察知识点和原理类似。作业包括CMOS性质相关的问题，以及通过定义版图和掩膜完成一个CMOS器件的版图设计。
 
 **EEE203+EEE204/CAN207 Continuous and Discrete Time Signals and Systems**  
-5CR, 授课：Jimin Xiao  
+5CR，授课：Jimin Xiao  
 课本：_Signal and Systems_ by A. V. Oppenheimer  
 核心专业课的重中之重，开始讲授一个全新的方向：信号与系统。分为两个部分，连续信号与系统(原EEE203)和离散信号与系统(原EEE204)。连续信号与系统部分主要内容包括信号和系统的定义、分类和性质，信号运算（卷积及其性质），时频变换（傅里叶变换）以及S变换（拉普拉斯变换）。离散信号与系统部分主要包括离散信号的定义、分类和性质，采样，时频变换（离散时间傅里叶变换/离散傅里叶变换）以及Z变换。同时离散部分的知识也会注重连续与离散之间的联系及其变换方法。信号与系统对数学要求较高，基本就是数学在某个方向上的应用，概念全新，需要着重理解复习。
 
 **EEE205 Digital Electronics II**  
-2.5CR, 授课：Ming Xu  
+2.5CR，授课：Ming Xu  
 进阶版数字电路，引入HDL等新知识(EEE205使用AHDL，比较过时但原理类似)描述规模更大更复杂的组合逻辑电路，包括使用Quine-McCluskey算法化简布尔逻辑。此外还有状态机等用于描述组合逻辑电路的方法等，考试中需要熟练掌握状态转换表、状态机和逻辑电路之间的等价转换。
 
 **EEE211 Electronic Circuits and Systems**  
-5CR, 授课：Sanghyuk Lee  
+5CR，授课：Sanghyuk Lee  
 进阶版模拟电路，主要内容包括模拟电路分析（包括小信号分析），放大电路，反馈。在更复杂的模电分析中，加入了包括电流镜和差分电路在内的基本模型，相关公式推导必须掌握。
 
 **EEE225/MEC201 Advanced Electrical Circuits and Electromagnetics**  
-5CR, 授课：Zhao Wang  
+5CR，授课：Zhao Wang  
 2018年才设立的新课，分为进阶版电路分析和进阶版电磁学两部分。进阶版电路分析包括RLC电路，滤波器，频率响应，耦合电路，电路的瞬态分析，三相电等内容，难度不小，需要在课后进行大量整理。进阶版电磁学内容包括静电学和静磁学，电磁相关定律，以及传输线和电磁波等应用。Zhao Wang老师喜欢出新题，必须掌握原理，光做往年试卷可能用处不会有想象中大。
 
 **MTH201 Engineering Mathematics III**  
-2.5CR, 授课：Shiyan Guo  
+2.5CR，授课：Shiyan Guo  
 主要内容有场论、PDE和傅里叶级数。数学系的老师都很认真，每个tutorial都要重视，原理、例题和方法最好都掌握。
 
 **大三下学期**  
 **EEE202/CAN202 Analogue and Digital Communications I**  
-2.5CR, 授课：Yanyan Wu  
+2.5CR，授课：Yanyan Wu  
 主要内容为通信系统和原理，信号调制与解调，噪声，信号传输方法（如频分复用和时分复用）以及通信设备（如超外差接收机）的原理和应用等等。通信是全新的课程方向，某些新概念需要理解透彻。
 
 **EEE210 Energy Conversion and Power Systems**  
-2.5CR, 授课：Tiew On Ting  
+2.5CR，授课：Tiew On Ting  
 从各种能源技术的种类和应用引入，再讲授相关的电路原理，如三相电，Y型负载和Δ型负载等等。之后的内容包括变压器，电动机-发电机-变压器系统等电力设备的原理和应用。
 
 **EEE212/MEC202 Industrial Awareness and Group Project**  
-2.5CR, 授课：Tiew On Ting  
+2.5CR，授课：Tiew On Ting  
 实践技能课，主要部分包括LaTeX作业，以及自由发挥的硬件设计小组项目。
 
 **EEE216/CPT210 Microprocessor Systems**  
-2.5CR, 授课：Anthony Centeno(已离职，可能换成Suneel Kommuri)  
+2.5CR，授课：Anthony Centeno(已离职，可能换成Suneel Kommuri)  
 这门课开始引入计算机体系结构的概念，从进制和IEEE 32位浮点数引入计算机组成和操作原理，之后通过ARM架构讲授汇编和机器码相关知识，以及处理器操作流程和指令等内容。对了解计算机体系结构和组成原理帮助很大。
 
 **EEE218/CAN206 RF Engineering and Applied Electromagnetics**  
-2.5CR, 授课：Mark Leach  
+2.5CR，授课：Mark Leach  
 由传输线和电磁波引入射频的概念，之后讲授传输线相关参数(如阻抗、VSWR)，传输线瞬态分析和史密斯圆图的使用，以及之后的功率传递，阻抗匹配，S参数等内容。部分概念较为新颖，可能需要花时间理解。
 
 **EEE220/MEC208 Instrumentation and Control System**  
-5CR, 授课：Qing Liu  
+5CR，授课：Qing Liu  
 课本：_Modern Control Systems_ by R. Dorf and R. Bishop  
 主要内容包括开环闭环系统，系统的多种描述方式（信号流图、微分方程、框图、状态空间模型），瞬态、稳态响应，零极点，精度、误差，性质判断（根轨迹图、伯德图、奈奎斯特图），PID控制等等。控制系统也是首次接触，某些概念和原理可能需要课后复习。期末考试计算量不小，分式较多容易写错，需要细心。
 
@@ -139,7 +139,7 @@ by WY
 
 **大四上学期**
 **EEE301/CAN303 Analogue and Digital Communications II**  
-2.5CR, 授课：Kyeongsoo Kim(代课，可能会恢复为Yanyan Wu)  
+2.5CR，授课：Kyeongsoo Kim(代课，可能会恢复为Yanyan Wu)  
 主要讲授通信系统中数字信号的处理。主要内容包括随机过程，二进制与M进制数字信号调制与解调，二进制与M进制数字信号的传输与接受，以及相移键控、相干接收等涉及数字信号的处理方式。
 
 **EEE309 Electronics for Instrumentation**  
