@@ -81,7 +81,7 @@ by WY
 **大三上学期**  
 **EEE201 CMOS Digital Integrated Circuits**  
 2.5CR, 授课：Sang Lam  
-主要内容包括CMOS器件的工作原理和性质，CMOS器件相关逻辑电路（如反相器、NAND/NOR门）以及对CMOS器件的某些改进和应用。Sang Lam老师在授课中例题很少，注重理解，考试主要考察原理的掌握，每一年题目样式与往年试卷差别较大，但考察知识点和原理类似。作业包括CMOS性质相关的问题，以及通过定义版图和掩模完成一个CMOS器件的版图设计。
+主要内容包括CMOS器件的工作原理和性质，CMOS器件相关逻辑电路（如反相器、NAND/NOR门）以及对CMOS器件的某些改进和应用。Sang Lam老师在授课中例题很少，注重理解，考试主要考察原理的掌握，每一年题目样式与往年试卷差别较大，但考察知识点和原理类似。作业包括CMOS性质相关的问题，以及通过定义版图和掩膜完成一个CMOS器件的版图设计。
 
 **EEE203+EEE204/CAN207 Continuous and Discrete Time Signals and Systems**  
 5CR, 授课：Jimin Xiao  
