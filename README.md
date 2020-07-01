@@ -312,7 +312,7 @@ GRE: V150+Q168+AW3.5
 **英国**  
 帝国理工学院/Imperial(第一志愿A&D IC Design，第二志愿Medical Robotics)：欧洲工科tier1  
 **新加坡**  
-南洋理工大学/NTU(Signal Processing)：亚洲tier1，除欧美以外的工科名校，另外本系去NTU的人数是NUS的十几倍。  
+南洋理工大学/NTU(Signal Processing)：亚洲tier1，除欧美以外的工科名校，另外本系去NTU的人数是NUS的十几倍  
 **澳大利亚**  
 悉尼大学/USYD(IT)：名气大，出结果快  
 ```markdown
