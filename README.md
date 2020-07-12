@@ -385,8 +385,8 @@ Mich/UCSD/UW/杜克/USC/NYU/西北等，以上每所学校今年在2和4两边
 
 ## 10. 其他院校推荐
 在申请结束后通过与其他同学们的交流，还了解到以下一些自己没申请但名声、课程或安排很好的神项目，非常推荐。  
-CMU ECE & SE, Pittsburgh or Silicon Valley(名声、就业满分，bar没有计算机学院的项目高，但对于XJTLU同学来说CMU ECE和SE还是比较难获得录取的)  
-UPenn ROBO/Duke ECE/UIUC ECE/UCSD EC79/UT Austin ECE/Imperial MSc Applied Computational Science and Engineering(都有软件相关的培养方向，几乎全码课，bar各有差别；其中Duke ECE、UCSD EC79和帝国理工的ACSE对XJTLU较为友好，批量录取，UPenn ROBO(Robotics)较偏向985同学但是同系的UPenn EE/SE对西浦友好且有转入ROBO的机会，UT Austin ECE对XJTLU不友好)  
+CMU ECE & SE(Software Engineering), Pittsburgh or Silicon Valley(名声、就业满分，bar没有计算机学院的项目高，但对于XJTLU同学来说CMU ECE和SE还是比较难获得录取的)  
+UPenn ROBO(Robotics)/Duke ECE/UIUC ECE/UCSD EC79/UT Austin ECE/Imperial MSc Applied Computational Science and Engineering(都有软件相关的培养方向，几乎全码课，bar各有差别；其中Duke ECE、UCSD EC79和帝国理工的ACSE对XJTLU较为友好，批量录取，UPenn ROBO较偏向985同学但是同为宾大ESE系的EE和SE(System Engineering，类似其他学校的IEOR工业工程与运筹学)专业对XJTLU友好且有转入ROBO的机会，UT Austin ECE对XJTLU不友好)  
 EIT Digital & InnoEnergy(两年制，欧洲学校双学位)  
 Brown/TAMU CS(转专业比较友好的CS项目，今年XJTLU的CS系和应数的同学获得了Brown CS的批量录取)  
 USC CS37/NEU CS Align/UPenn MCIT(转CS神项目，其中CS37面向理工科，MCIT面向文商科) 
