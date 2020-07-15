@@ -255,13 +255,13 @@ X也可以免语言申请一些北美学校（就读于全英文授课的学校�
 伦多大学，宾大工院，密歇根大学等。但是即使2+2也不是所有学校都可
 以免语言申请，比如剑桥、IC某些专业是不免的。举例，IC某些商科专
 业包括RMFE今年要求未提供雅思托福分数但从英语国家获得学位的同学
-另外参加英语面试<1>，虽然不一定要雅思托福但还是得过语言关。为了
+另外参加英语面试<1>，即使不一定要雅思托福但还是得过语言关。为了
 保证申请时足够的选择余地，最好还是老老实实把语言成绩考出来，实
 在没过线再考虑waiver的事，除非只申请可以免语言的项目。Waiver文
 件2+2用利物浦大学成绩单即可，4+X可以使用成绩单附加e桥上的XJTLU
 Statement尝试申请waiver，其中提到“XJTLU的教学和测评语言为英语”。
 ```
-<1> [帝国理工学院RMFE](https://www.imperial.ac.uk/business-school/programmes/msc-risk-management/admissions/entry-requirements/#english-language-requirement)语言要求：  
+<1> [帝国理工学院RMFE](https://www.imperial.ac.uk/business-school/programmes/msc-risk-management/admissions/entry-requirements/#english-language-requirement)2020fall语言要求：  
 (1) 雅思7小分6.5  
 (2) 托福100小分22  
 (3) 从英语国家获得学位**并**通过英语面试  
