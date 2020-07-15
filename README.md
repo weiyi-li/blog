@@ -262,9 +262,9 @@ X也可以免语言申请一些北美学校（就读于全英文授课的学校�
 Statement尝试申请waiver，其中提到“XJTLU的教学和测评语言为英语”。
 ```
 <1> [帝国理工学院RMFE专业语言要求](https://www.imperial.ac.uk/business-school/programmes/msc-risk-management/admissions/entry-requirements/#english-language-requirement)：  
-(1)雅思7小分6.5
-(2)托福100小分22
-(3)从英语国家获得学位**并**参加英语面试
+(1)雅思7小分6.5  
+(2)托福100小分22  
+(3)从英语国家获得学位**并**通过英语面试  
 
 ### 3.4 GRE
 **320+为佳**  
