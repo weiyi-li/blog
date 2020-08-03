@@ -266,9 +266,8 @@ X也可以免语言申请一些北美学校（就读于全英文授课的学校�
 另外参加英语面试<1>，即使不一定要雅思托福但还是得过语言关。为了
 保证申请时足够的选择余地，最好还是老老实实把语言成绩考出来，实
 在没过线再考虑waiver的事，除非只申请可以免语言的项目。Waiver文
-件2+2用利物浦大学成绩单即可，4+X可以使用成绩单附加e桥上的XJTLU
-Statement尝试申请waiver，其中提到“XJTLU的教学和测评语言为英语
-”。
+件2+2用利物浦大学成绩单即可，4+X可以使用成绩单尝试申请waiver，
+成绩单下方的注释中有提到“XJTLU的教学语言为英语”。
 ```
 <1> [帝国理工学院RMFE](https://www.imperial.ac.uk/business-school/programmes/msc-risk-management/admissions/entry-requirements/#english-language-requirement)2020fall语言要求：  
 (1) 雅思7小分6.5  
