@@ -346,7 +346,7 @@ Ps. 上面的分析建立在2020年7月中美互关领事馆但中美关系仍�
 **英国**  
 帝国理工学院/Imperial(第一志愿A&D IC Design，第二志愿Medical Robotics)：欧洲工科tier1  
 **新加坡**  
-南洋理工大学/NTU(Signal Processing)：亚洲tier1，除欧美以外的工科名校，另外本系去NTU的人数是NUS的十几倍  
+南洋理工大学/NTU(MSc Signal Processing)：亚洲tier1，除欧美以外的工科名校，另外本系去NTU的人数是NUS的十几倍  
 **澳大利亚**  
 悉尼大学/USYD(IT)：名气大，出结果快  
 ```markdown
@@ -407,12 +407,12 @@ Mich/UCSD/UW/杜克/USC/NYU/西北等，以上每所学校今年在2和4两边
 在时代大潮的裹挟下，很多事情都不会跟预想得一样了。16/17年浮现去美国读研的想法时美国的学习工作政策算是最好的，当时不怎么check的5年F1签证+CPT+OPT+H1B值得被无脑吹。但三四年后的今天美国早就不是最好留的国家了，即使是CS专业，这方面还远不如恢复了PSW签证的英国，我也算是被坑了一下，早知道就多申点欧洲学校了。所以我也建议大家多国混申，等offer到手后再综合多方因素作出判断，多一些plan B是这个时代面对多变形势的唯一选择。  
 由于2020年春天以来美国政策的收紧和形势的恶化，不得不申请一些美国以外的学校作为升学方向的plan B。我在拿到所有2020fall的offer之后，在2020年5月又申请了一些其他国家学校2020fall和2021winter/summer的入学。  
 **英国**  
-伦敦大学学院/UCL MSc Internet Engineering(2020fall)：G5，美国情况不好以后英国也是很好的选择  
-格拉斯哥大学/Glasgow MSc Computer Systems Engineering(2021winter)：专业不错，可以1月入学不用再等一年  
+伦敦大学学院/UCL(MSc Internet Engineering)：2020fall的补申，G5，美国情况不好以后英国也是很好的选择  
+格拉斯哥大学/Glasgow(MSc Computer Systems Engineering)：专业不错，可以1月入学不用再等一年  
 **加拿大**  
-麦吉尔大学/McGill MEng ECE(2021winter)：加拿大tier1，地理位置优越，IT实力强  
+麦吉尔大学/McGill(MEng ECE)：加拿大tier1，地理位置优越，IT实力强  
 **德国**  
-斯图加特大学/Stuttgart MSc EE(2021summer)：德国TU9，工科实力强劲，地理位置优越  
+斯图加特大学/Stuttgart(MSc EE)：德国TU9，工科实力强劲，地理位置优越  
 另外，作为美国内部的plan B，在接受了UW的offer以后，也另外defer或留了一些学校以备不时之需，包括USC ECE(MLDS)的2021spring入学，USC EE的2021fall入学，以及西北大学可defer的入学。
 
 ## 10. 其他院校推荐
