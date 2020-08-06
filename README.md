@@ -344,7 +344,7 @@ Ps. 上面的分析建立在2020年7月中美互关领事馆但中美关系仍�
 纽约大学/NYU：综合名校，名气很大；NYU的工科虽然基础不强，不过也是稳步上升，据说今年卡了985/211，很少有双非的同学被录取，但中外合作大学没有被影响，适合赚名气  
 东北大学/NEU：找工优越，CS Ranking排名高，适合找工  
 **英国**  
-帝国理工学院/Imperial(第一志愿A&D IC Design，第二志愿Medical Robotics)：欧洲工科tier1  
+帝国理工学院/Imperial(第一志愿MSc A&D IC Design，第二志愿MRes Medical Robotics)：欧洲工科tier1  
 **新加坡**  
 南洋理工大学/NTU(MSc Signal Processing)：亚洲tier1，除欧美以外的工科名校，另外本系去NTU的人数是NUS的十几倍  
 **澳大利亚**  
