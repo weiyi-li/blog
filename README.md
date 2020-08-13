@@ -10,13 +10,11 @@ by WY
 4. 个人申请背景  
 5. 专业选择思路  
 6. 定位选校思路  
-7. 申请结果  
-8. 时间线  
-9. 2021补申
-10. 最终去向
-11. 其他院校推荐  
-12. 拿到offer后选校思路
-13. 申请感想+tips  
+7. 申请结果和时间线  
+8. 补申
+9. 其他院校推荐  
+10. 选offer思路和最终去向
+11. 申请感想+tips  
 
 ## 1. XJTLU电气系生存指南
 ### 1.1 课程攻略+tips
@@ -376,15 +374,14 @@ Mich/UCSD/UW/杜克/USC/NYU/西北等，以上每所学校今年在2和4两边
 学，包括UT Austin/NUS/ETH等学校，谨慎申请。
 ```
 
-## 7. 申请结果  
-录取(Admitted)：UW/UPenn/UCSD/Purdue/Northwestern/USC/UCI/NYU/NEU/NTU/Imperial Medical Robotics  
-被拒(Rejected)：Imperial A&D IC Design/USYD  
-
-## 8. 时间线
+## 7. 录取结果和时间线
 一般大多数学校的申请都需要在大四上学期提交，英国的申请在10月11月左右就可以提交，特别是像帝国理工这种分第一第二志愿的千万不能迟交，如果第一志愿被拒需要有足够的时间转入第二志愿审理。美国大学fall学期的申请deadline一般分为12.15前和12.15后，其中在12.15后的deadline大概是1.15/2.1/2.15这几个日期，根据学校各不相同。12.15的deadline时间比较紧张，需要在11月前就完成所有标化考试，并且在不晚于11月进行语言和GRE成绩的送分和匹配，同时文书等材料需要在11月底全部就位准备投递。  
 如果有些大学的申请分为优先deadline和最终deadline，如果条件允许还是在优先deadline提交为好，因为优先deadline相比之下在审理和奖学金发放上确实会有更高的优先级。举例，[纽约大学](https://engineering.nyu.edu/admissions/graduate/apply/application-deadlines)Tandon工学院多数硕士专业优先deadline为12.15，而最终deadline为2.1。我在优先deadline前提交了申请，几天之后的12.20就下了offer，早拿早放心；如果等到1月份再赶最终deadline才提交是不可能这么快出结果的。  
 
-对于我个人2020fall的申请，时间线如下：  
+对于我个人2020fall的申请，录取结果和时间线如下：  
+录取(Admitted)：UW/UPenn/UCSD/Purdue/Northwestern/USC/UCI/NYU/NEU/NTU/Imperial Medical Robotics  
+被拒(Rejected)：Imperial A&D IC Design/USYD  
+
 8.12 Imperial Medical Robotics and Image Guided Intervention **Offer**，在只有美国offer的情况下被老师反套上岸拿了美国以外的offer，太不容易了
 8.7 Imperial Medical Robotics and Image Guided Intervention **Unofficial offer**，被老师从waitlist里捞了出来，等待正式offer中  
 5.5 Imperial Medical Robotics and Image Guided Intervention **Waitlist**，前一个志愿出太迟了，估计暂时是录满了得着被等捞上来，可能跟IC确实没有缘分吧  
@@ -405,9 +402,11 @@ Mich/UCSD/UW/杜克/USC/NYU/西北等，以上每所学校今年在2和4两边
 12.15前：UW/UCSD/NYU/USC/Purdue  
 9.19：USYD  
 
-## 9. 补申
+## 8. 补申
 在时代大潮的裹挟下，很多事情都不会跟预想得一样了。16/17年浮现去美国读研的想法时美国的学习工作政策算是最好的，当时不怎么check的5年F1签证+CPT+OPT+H1B值得被无脑吹。但三四年后的今天美国早就不是最好留的国家了，即使是CS专业，这方面还远不如恢复了PSW签证的英国，我也算是被坑了一下，早知道就多申点欧洲学校了。所以我也建议大家多国混申，等offer到手后再综合多方因素作出判断，多一些plan B是这个时代面对多变形势的唯一选择。  
 由于2020年春天以来美国政策的收紧和形势的恶化，不得不申请一些美国以外的学校作为升学方向的plan B。我在拿到所有2020fall的offer之后，在2020年5月又申请了一些其他国家学校2020fall和2021winter/summer的入学。  
+
+### 8.1 补申选校
 **英国**  
 伦敦大学学院/UCL(MSc Internet Engineering)：2020fall的补申，G5，美国情况不好以后英国也是很好的选择  
 格拉斯哥大学/Glasgow(MSc Computer Systems Engineering)：专业不错，可以1月入学不用再等一年  
@@ -417,12 +416,10 @@ Mich/UCSD/UW/杜克/USC/NYU/西北等，以上每所学校今年在2和4两边
 斯图加特大学/Uni-Stuttgart(MSc EE)：德国TU9，工科实力强劲，地理位置优越  
 另外，作为美国内部的plan B，在接受了UW的offer以后，也另外defer或留了一些学校以备不时之需，包括USC ECE(MLDS)的2021spring入学，USC EE的2021fall入学，以及西北大学可defer的入学。
 
-**补申结果**  
+### 8.2 补申结果和时间线  
 8.7 Uni-Stuttgart EE **Rej**：未满足学术标准，问题出在成绩单上，猜想是对西浦的英制不了解，或者是德国GPA的换算材料和流程有误，APS倒是认可4+X的英国学位可以免除；如果要申请建议搞清西浦分制和德国分制的相互关系，不要在成绩单这个核心材料上出错  
-
-## 10. 最终去向
-在美国当今情况防疫不利、政策不定的影响下，我决定放弃2020fall的美国入学转投英国，准备去IC完成硕士学业了。感慨万千，再次印证了“一个人的命运=自我奋斗+历史的进程”，让我选择了一条未曾设想的道路。  
-## 11. 其他院校推荐
+ 
+## 9. 其他院校推荐
 在申请结束后通过与其他同学们的交流，还了解到以下一些自己没申请但名声、课程或安排很好的神项目，非常推荐。  
 CMU ECE & SE(Software Engineering), Pittsburgh or Silicon Valley(名声、就业满分，bar没有计算机学院的项目高，但对于XJTLU同学来说CMU ECE和SE还是比较难获得录取的)  
 UPenn ROBO(Robotics)/Duke ECE/UIUC ECE/UCSD EC79/UT Austin ECE/Imperial MSc Applied Computational Science and Engineering(都有软件相关的培养方向，几乎全码课，bar各有差别；其中Duke ECE、UCSD EC79和帝国理工的ACSE对XJTLU较为友好，批量录取，UPenn ROBO较偏向985同学但是同为宾大ESE系的EE和SE(System Engineering，类似其他学校的IEOR工业工程与运筹学)专业对XJTLU友好且有转入ROBO的机会，UIUC ECE可以冲一冲，UT Austin ECE对XJTLU不友好)  
@@ -430,10 +427,15 @@ EIT Digital & InnoEnergy(两年制，欧洲学校双学位)
 Brown/TAMU CS(转专业比较友好的CS项目，今年XJTLU的CS系和应数的同学获得了Brown CS的批量录取)  
 USC CS37/NEU CS Align/UPenn MCIT(转CS神项目，其中CS37面向理工科，MCIT面向文商科) 
 
-## 12. 拿到offer后选校思路
-补充一下关于拿到录取后选校的建议。其实每个人在申请的时候对于各个学校心里都已经有一杆秤了，如果想法没有大的改变，到时候选校问再多的人了解再多的信息也只是证明心仪学校在心中第一感觉的合理性而已。很多EE群里面都在讨论UCSD/UMich/宾大/杜克/UIUC等学校的选择，都是很好的学校，讨论绝对好坏没有意义，自己更喜欢哪个就去。UCSD地点好+tech界名声大，杜克转码课程满分，宾大综合名气满分，UIUC工科实力满分，更需要哪一项直接选择就好了。
+## 10. 选offer思路和最终去向
 
-## 13. 申请感想+tips
+### 10.1 选offer思路
+补充一下关于拿到录取后选校的建议。其实每个人在申请的时候对于各个学校心里都已经有一杆秤了，如果想法没有大的改变，到时候选校问再多的人了解再多的信息也只是证明心仪学校在心中第一感觉的合理性而已。很多EE群里面都在讨论UCSD/UMich/宾大/杜克/UIUC等学校的选择，都是很好的学校，讨论绝对好坏没有意义，自己更喜欢哪个就去。UCSD地点好+tech界名声大，杜克转码课程满分，宾大综合名气满分，UIUC工科实力满分，更需要哪一项直接选择就好了。  
+
+### 10.2 最终去向
+在美国当今情况防疫不利、政策不定的影响下，我决定放弃2020fall的美国入学转投英国，准备去IC完成硕士学业了。感慨万千，再次印证了“一个人的命运=自我奋斗+历史的进程”，让我选择了一条未曾设想的道路。 
+
+## 11. 申请感想+tips
 最终接了offer才觉得之前所有选校上的纠结在将来工作和生活中反馈的差异也并不会有想象中的大，除了最强的那几所学校之外其他的也没什么质的差别，不如挑一个喜欢的上就好了，不后悔就行，真正的挑战才刚刚开始。  
 在本次2020fall申请中，我其实一开始也是想转CS的，但是被CS申请激烈的竞争吓到了，还是决定曲线救国，还好现在的ECE专业里也能凑出过半计算机相关课程。选校还是有那么一丝保守，建议大家在把底保住保稳的情况下想冲就冲。之前都有点后悔没申CMU，但所幸被UW捞了一波，UW在EECS行业的名声也是很不错的吧。  
 由于对申请和研究生学校认知的不断深入，有一些想法在拿到录取以后跟刚申请的时候会有不同。当时就一心想搞图像处理或者机器学习，但是经过更深的了解发现并不是这样，偏理论的机器学习课对于找工作帮助并不是很大，research工作也更偏好博士，想找工老老实实上CS基础课或者software课。上学期忙申请，下学期疫情原因全网课，跟导师和lab的同学有效交流很少，导致图像处理相关的毕设都没有好好做，我真的应该重新认真思考一下自己的domain knowledge到底在哪里了。选校的时候也是不太懂，只盯着有图像处理方向的学校，没有就不申，属实铁憨憨，还好就算这么选也能选出不少好学校。当然人的认知是在不断发展的，不能事后知道了才开上帝视角说当时应该怎么怎么样，有的路要自己走过了才知道，只要偏差不太大不后悔当初的选择就足以称得上顺利了。  
