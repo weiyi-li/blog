@@ -440,7 +440,8 @@ USYD IT：申请中无文书推荐信要求，但不是很适合转专业。
 伦敦大学学院/UCL(MSc Internet Engineering)：2020fall的补申，G5，美国情况不好以后英国也是很好的选择  
 格拉斯哥大学/Glasgow(MSc Computer Systems Engineering)：专业不错，明确接受跨专业申请，可以1月入学不用再等一年  
 格拉斯哥大学/Glasgow(MSc Computing Science)：纯CS专业，1月入学  
-伦敦玛丽女王大学/Queen Mary(MSc Data Science and Artificial Intelligence)：专业不错，要求本科背景跨专业，英国1月入学的项目很少，最好的理工科项目就是Glasgow的EECS和QMUL的data相关专业了(DSAI, Big Data Science和Data Analytics)  
+伦敦玛丽女王大学/Queen Mary(MSc Data Science and Artificial Intelligence)：专业不错，要求本科背景跨专业  
+Ps. 英国1月入学的项目很少，最好的理工科项目就是Glasgow的EECS，Birmingham的CS和QMUL的data相关专业了(DSAI, Big Data Science和Data Analytics)  
 **加拿大**  
 麦吉尔大学/McGill(MEng ECE)：加拿大tier1，地理位置优越，IT实力强  
 **德国**  
