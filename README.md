@@ -261,10 +261,10 @@ XJTLU专区：
 2+2可以免一些国外学校的语言（在英语国家学习并获得学位），不过4+
 X也可以免语言申请一些北美学校（就读于全英文授课的学校），比如多
 伦多大学、华盛顿大学、宾大工院、密歇根大学等。但是即使2+2也不是
-所有学校都可以免语言申请，比如剑桥、牛津、IC商学院某些专业是不免
+所有学校都可以免语言申请，比如剑桥、IC商学院某些专业是不免
 的。举例，IC商学院要求未提供雅思托福分数但从英语国家获得学位的同
 学另外参加英语面试<1>，即使不一定要雅思托福但还是得过语言关。4+
-X在英国靠前的学校中基本只有曼大可以免语言（获得英语国家学位）。
+X在英国靠前的学校中只有很少学校可免语言，但北美免语言的学校较多。
 为了保证申请时足够的选择余地，最好还是老老实实把语言成绩考出来，
 实在没过线再考虑waiver的事，除非只申请可以免语言的项目。Waiver
 文件2+2用利物浦大学在读证明或成绩单即可；4+X可以使用成绩单尝试申
@@ -277,7 +277,13 @@ X在英国靠前的学校中基本只有曼大可以免语言（获得英语国�
 (2) 托福100小分22  
 (3) 从英语国家获得学位**并**通过英语面试  
 
-Ps. 2020/21年的申请审理中，有一些学校放宽了语言要求，比如[LSE官网](https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Entry-requirements/English-language-requirements?from_serp=1)说明受到COVID-19影响，2+2在英国学习以及在英国以外获得英国学位(4+X)都可以满足免语言要求。  
+Ps. 英国部分研究生学校免语言条件  
+(1) [剑桥大学](https://www.postgraduate.study.cam.ac.uk/international/competence-english/)：中国籍需要提供语言成绩  
+(2) [帝国理工学院](https://www.imperial.ac.uk/study/pg/apply/requirements/english/)：联合办学本科要求授予英语国家大学的学位且最后一学年整年在英语国家就读  
+(3) [伦敦大学学院](https://www.ucl.ac.uk/prospective-students/graduate/learning-and-living-ucl/international-students/english-language-requirements)：在英语国家至少就读12个月并获得学位  
+(4) [爱丁堡大学](https://www.ed.ac.uk/studying/international/english)：在英语国家或特定的非英语国家学校获得以英语作为教学语言的学位  
+(5) [曼彻斯特大学](https://www.manchester.ac.uk/study/international/admissions/language-requirements/)：获得英语国家本科或以上学位  
+2020/21年的申请审理中，有一些学校放宽了语言要求，比如[LSE官网](https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Entry-requirements/English-language-requirements?from_serp=1)说明受到COVID-19影响，2+2在英国学习以及在英国以外获得英国学位(4+X)都可以满足免语言要求。  
 
 ### 3.4 GRE
 **320+为佳**  
