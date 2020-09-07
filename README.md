@@ -269,8 +269,8 @@ X在英国靠前的学校中只有很少学校免语言，但北美免语言的�
 实在没过线再考虑waiver的事，除非只申请可以免语言的项目。Waiver
 文件2+2用利物浦大学在读证明或成绩单即可；4+X可以使用成绩单尝试申
 请waiver，成绩单下方的注释中有提到“XJTLU的教学语言为英语”，或使
-用eBridge上可下载的XJTLU Statement，其中有提到“XJTLU的学生同时
-获得XJTLU和UoL的学位”。
+用eBridge上可下载的XJTLU Statement，其中有提到“XJTLU的学生同
+时获得XJTLU和UoL的学位”。
 ```
 <1> [帝国理工学院RMFE](https://www.imperial.ac.uk/business-school/programmes/msc-risk-management/admissions/entry-requirements/#english-language-requirement)2020fall语言要求：  
 (1) 雅思7小分6.5  
