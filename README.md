@@ -466,7 +466,7 @@ Ps. 英国1月入学的项目很少，最好的理工科项目就是Glasgow的EE
 
 ### 8.2 补申结果、时间线和补申各校tips
 9.27 Queen Mary Big Data Science **Offer**：被推荐到了这个专业，说我的背景更适合DS
-9.26 Queen Mary DSAI **Rej**：给的原因是overqualified，因为这是给DSAI背景较少的同学准备的转专业项目，我佛了还真有学校这么直白把因为overqualified拒人写出来，被学院推荐到另一个专业Big Data Science的21winter录取  
+9.26 Queen Mary DSAI **Rej**：给的原因是overqualified，因为这是给CS背景较少的同学准备的转专业项目，我佛了还真有学校这么直白把因为overqualified拒人写出来，被学院推荐到另一个专业Big Data Science的21winter录取  
 9.24 Glasgow Computing Science **Rej**：学校邮件告知申请的时候已经招满了，没有空位  
 9.16 UCL Internet Engineering **Rej**：本来就有点悬，因为XJTLU同分数段的拿到Internet Engineering录取的比较少（大多录的是Wireless and Optical Communications等通信相关专业），而且方向和文书可能不太契合，并且申请时间太迟  
 8.7 Uni-Stuttgart EE **Rej**：未满足学术标准，问题出在成绩单上，申请时提供的分数是大一二三69/66/79但大四上拉垮只有63，猜想可能是因为分数不够，也可能是因为不了解我校的学制，在换算德制学分和德制GPA的材料和流程中出了问题，APS倒是认可4+X的英国学位可以免除  
