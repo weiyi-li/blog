@@ -479,7 +479,7 @@ Ps. 英国1月入学的项目很少，最好的理工科项目就是Glasgow的EE
 CMU ECE & SE(Software Engineering), Pittsburgh or Silicon Valley(名声、就业满分，bar没有计算机学院的项目高，但对于XJTLU同学来说CMU ECE和SE还是比较难获得录取的)  
 UPenn ROBO(Robotics)/Duke ECE/UIUC ECE/UCSD EC79/UT Austin ECE/Imperial MSc Applied Computational Science and Engineering(都有软件和coding相关的部分，但具体着重的方向不同，有的是机器人，有的是软硬件系统，有的是数值和建模；码课占比高，bar各有差别；其中Duke ECE、UCSD EC79和帝国理工的ACSE对XJTLU较为友好，批量录取，UPenn ROBO较偏向985同学但是同为宾大ESE系的EE和SE(System Engineering，类似其他学校的IEOR工业工程与运筹学)专业对XJTLU友好且有转入ROBO的机会，UIUC ECE可以冲一冲，UT Austin ECE对XJTLU不友好)  
 EIT Digital & InnoEnergy(两年制，欧洲学校双学位)  
-Brown/TAMU CS/UCL CS系等接受非CS背景申请的CS项目(转专业比较友好的CS项目，今年XJTLU的CS系和应数的同学获得了Brown CS的批量录取)  
+Brown/TAMU CS/Rice MCS/UCI MCS/UCSD CSE/UCL CS系等接受非CS背景申请的CS项目(转专业比较友好的CS项目，今年XJTLU的CS系和应数的同学获得了Brown CS的批量录取)  
 USC CS37/NEU CS Align/UPenn MCIT/Imperial Computing Science和其他英国学校非advanced的CS硕士(专门接收转CS的神项目，其中CS37面向理工科，MCIT面向文商科) 
 
 ## 10. 选offer思路和最终去向
