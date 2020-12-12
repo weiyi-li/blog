@@ -277,14 +277,6 @@ X在英国靠前的学校中只有很少学校免语言，但北美免语言的�
 (2) 托福100小分22  
 (3) 从英语国家获得学位**并**通过英语面试  
 
-Ps. 英国部分研究生学校免语言条件  
-(1) [剑桥大学](https://www.postgraduate.study.cam.ac.uk/international/competence-english/)：中国籍需要提供语言成绩  
-(2) [帝国理工学院](https://www.imperial.ac.uk/study/pg/apply/requirements/english/)：联合办学本科要求授予英语国家大学的学位且最后一学年整年在英语国家就读  
-(3) [伦敦大学学院](https://www.ucl.ac.uk/prospective-students/graduate/learning-and-living-ucl/international-students/english-language-requirements)：在英语国家至少就读12个月并获得学位  
-(4) [爱丁堡大学](https://www.ed.ac.uk/studying/international/english)：在英语国家或特定的非英语国家学校获得以英语作为教学语言的学位  
-(5) [曼彻斯特大学](https://www.manchester.ac.uk/study/international/admissions/language-requirements/)：获得英语国家本科或以上学位  
-2020/21年的申请审理中，有一些学校放宽了语言要求，比如[LSE官网](https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Entry-requirements/English-language-requirements?from_serp=1)说明受到COVID-19影响，2+2在英国学习以及在英国以外获得英国学位(4+X)都可以满足免语言要求。  
-
 ### 3.4 GRE
 **320+为佳**  
 美国大多数学校和专业需要GRE/GMAT，除了美国之外的其他国家也有部分学校对G有要求，可能是强制提交G成绩、建议提交或可以提交。如果确定要申请美国或其他地区需要GRE/GMAT的专业，越早考越好，有效期5年。如果想申比较好的学校，GRE尽量还是320以上，理工科主要关注数学成绩。商科需不需要G、具体是考GRE还是GMAT要看学校官网的专业要求，可能是required，也可能是recommended。EECS专业中，美国绝大多数项目都要GRE，除了少数不再参考GRE的专业，比如华盛顿大学ECE的硕博项目。其他国家的学校也有对GRE有要求的，例如帝国理工学院的Computing with specialization专业强制要求GRE。  
