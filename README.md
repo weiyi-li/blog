@@ -4,7 +4,7 @@ by WY
 **如果觉得这篇博客对你有帮助，请[点击此处](https://github.com/weiyi-li/blog)进入项目帮忙点击Star，万分感谢！**   
 若有其他疑问，请通过[个人主页](https://github.com/weiyi-li)上的社交平台联系我，乐意之至。
 ## 目录
-1. [XJTLU电气系生存指南](## 1. XJTLU电气系生存指南)  
+[1. XJTLU电气系生存指南](## 1. XJTLU电气系生存指南)  
 2. XJTLU电气系2020fall申请情况  
 3. 申请材料（适用所有专业）  
 4. 个人申请背景  
