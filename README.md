@@ -457,9 +457,9 @@ Ps. 英国1月入学的项目很少，最好的理工科项目就是Glasgow的EE
 另外，作为美国内部的plan B，在接受了UW的offer以后，也另外defer或留了一些学校以备不时之需，包括USC ECE(MLDS)的2021spring入学，USC EE的2021fall入学，以及西北大学可defer的入学。
 
 ### 8.2 补申结果、时间线和补申各校tips
-10.21 Glasgow Computer Systems Engineering **Offer**
-10.9 McGill ECE **Rej**：感受到了加拿大的难度，确实不容易
-9.27 Queen Mary Big Data Science **Offer**：被推荐到了这个专业，说我的背景更适合DS
+10.21 Glasgow Computer Systems Engineering **Offer**  
+10.9 McGill ECE **Rej**：感受到了加拿大的难度，确实不容易  
+9.27 Queen Mary Big Data Science **Offer**：被推荐到了这个专业，说我的背景更适合DS  
 9.26 Queen Mary DSAI **Rej**：给的原因是overqualified，因为这是给CS背景较少的同学准备的转专业项目，我佛了还真有学校这么直白把因为overqualified拒人写出来，被学院推荐到另一个专业Big Data Science的21winter录取  
 9.24 Glasgow Computing Science **Rej**：学校邮件告知申请的时候已经招满了，没有空位  
 9.16 UCL Internet Engineering **Rej**：本来就有点悬，因为XJTLU同分数段的拿到Internet Engineering录取的比较少（大多录的是Wireless and Optical Communications等通信相关专业），而且方向和文书可能不太契合，并且申请时间太迟  
