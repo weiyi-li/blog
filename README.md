@@ -15,4 +15,4 @@
 ## 生活攻略向blog
 [【英国学生签证攻略】南京Tier4签证全流程2020](https://github.com/weiyi-li/blog/blob/master/UK_Tier4_Visa_Tips.md)  
 
-**如果觉得这篇博客对你有帮助，请[点击此处](https://github.com/weiyi-li/blog)进入项目帮忙点击Star，万分感谢！**
+_如果觉得这些博客对你有帮助，请[点击此处](https://github.com/weiyi-li/blog)进入项目帮忙点击Star，万分感谢！_
