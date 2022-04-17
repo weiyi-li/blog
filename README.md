@@ -1,6 +1,6 @@
 # Blog目录
-by **WY**  
-[**个人主页|Homepage**](https://weiyi-li.github.io/)  
+by WY  
+[**个人主页 | Homepage**](https://weiyi-li.github.io/)  
 
 ## 体验向blog  
 [20fall/21spring 非顶尖选手多国EE硕士申请总结](https://zhuanlan.zhihu.com/p/345559376)  
