@@ -1,4 +1,7 @@
 # Blog目录
+by **WY**  
+[**个人主页**](https://weiyi-li.github.io/)  
+
 ## 体验向blog  
 [20fall/21spring 非顶尖选手多国EE硕士申请总结](https://zhuanlan.zhihu.com/p/345559376)  
 [疫情下的伦敦：帝国理工学院医疗机器人硕士半年就读总结](https://zhuanlan.zhihu.com/p/339570809)  
