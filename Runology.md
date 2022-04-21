@@ -3,7 +3,7 @@ by WY
 分享几条人在国内已经工作了再出国的办法。零工作门槛，不需要找到国外工作，可以先出国再找，当然能不能找到就全看个人实力了。
 
 ## 1. 🇳🇱荷兰[Orientation visa](https://business.gov.nl/coming-to-the-netherlands/permits-and-visa/orientation-visa-for-highly-educated-persons/)（也叫Search year visa）
-可以在海外申请，可在荷兰及欧盟无条件居留一年，期间可以在荷兰工作、找工作等。  
+可以在海外申请，可在荷兰及欧盟无条件居留1年，期间可以在荷兰工作、找工作等。  
 * 唯一硬性要求：硕士及以上毕业于世界前200*学校，或荷兰本科或硕士及以上毕业  
 *毕业学校在QS、TIMES、ARWU任一榜单前200  
 
