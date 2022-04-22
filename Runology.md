@@ -37,6 +37,9 @@ by WY
 ### 1.10 🇩🇪德国[Residence permit](https://www.uni-konstanz.de/en/international-office/study-in-konstanz/degree-studies/work-in-germany-after-completing-your-studies/non-eu/faq/)  
 从德国大学毕业后，可以申请延长居留许可最长达18个月，期间可无条件在德国居留，包括找工作等。  
 
+### 1.11 🇧🇪比利时[Search year residence permit](https://www.kuleuven.be/english/stuvo/working-volunteering-career/transition-to-the-job-market/working-non-eea)  
+从比利时大学毕业后，可以申请12个月的search year居留许可用于找工作或工作。  
+
 ## 2. 归海方法论
 另外，分享几条人在国内已经工作了再出国的办法。零工作门槛，不需要找到国外工作，可以先出国再找，当然能不能找到就全看个人实力了。
 
