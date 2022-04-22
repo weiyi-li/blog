@@ -24,7 +24,7 @@ by WY
 
 ### 1.7 🇮🇪爱尔兰[Third level graduate scheme](https://www.irishimmigration.ie/my-situation-has-changed-since-i-arrived-in-ireland/third-level-graduate-programme/#introduction)  
 从爱尔兰指定大学荣誉本科或硕士以上毕业后的6个月内，可以申请third level graduate scheme，可以在12个月内无条件居留爱尔兰。  
-* 硬性要求：毕业6个月内申请  
+* 硬性要求：毕业6个月内申请，申请时持有stamp2学生签证  
 
 ## 2. 归海方法论
 另外，分享几条人在国内已经工作了再出国的办法。零工作门槛，不需要找到国外工作，可以先出国再找，当然能不能找到就全看个人实力了。
