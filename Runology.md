@@ -22,8 +22,8 @@ by WY
 ### 1.6 🇳🇿新西兰[Post study work visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/post-study-work-visa)  
 从新西兰大学毕业后，可以申请post study work visa，可以在1至3年内无条件居留新西兰，为任何雇主工作。  
 
-### 1.7 🇮🇪爱尔兰[Third level graduate scheme](https://www.irishimmigration.ie/my-situation-has-changed-since-i-arrived-in-ireland/third-level-graduate-programme/#introduction)  
-从爱尔兰指定大学荣誉本科或硕士以上毕业后的6个月内，可以申请third level graduate scheme，可以在12个月内无条件居留爱尔兰。  
+### 1.7 🇮🇪爱尔兰[Third level graduate scheme](https://www.irishimmigration.ie/my-situation-has-changed-since-i-arrived-in-ireland/third-level-graduate-programme/#introduction)（也叫[Stamp1G](https://www.ucd.ie/global/studentexperience/thirdlevelgraduateprogramme-stamp1g/)）  
+从爱尔兰指定大学荣誉本科或硕士以上毕业后的6个月内，可以申请third level graduate scheme。荣誉本科可以在12个月内无条件居留爱尔兰，硕士及博士以上会先获得12个月内无条件居留爱尔兰的权利，到期后可以再续签12个月。    
 * 硬性要求：毕业6个月内申请，申请时持有stamp2学生签证  
 
 ## 2. 归海方法论
