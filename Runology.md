@@ -29,6 +29,9 @@ by WY
 ### 1.8 🇸🇪瑞典[Extend residence permit](https://studyinsweden.se/moving-to-sweden/permits-visas/)  
 从瑞典大学毕业后，可以申请延长居留许可12个月，在此期间可以无条件居留瑞典找工作等。  
 
+### 1.9 🇫🇮芬兰[Residence permit to look for work](https://migri.fi/en/residence-permit-to-look-for-work)  
+从芬兰大学毕业后，可以申请最长2年的居留许可，无条件在芬兰找工作。  
+
 ## 2. 归海方法论
 另外，分享几条人在国内已经工作了再出国的办法。零工作门槛，不需要找到国外工作，可以先出国再找，当然能不能找到就全看个人实力了。
 
