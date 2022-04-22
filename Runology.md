@@ -19,6 +19,9 @@ by WY
 ### 1.5 🇳🇱荷兰[Orientation visa](https://business.gov.nl/coming-to-the-netherlands/permits-and-visa/orientation-visa-for-highly-educated-persons/)（也叫Search year visa）
 见2.1。  
 
+### 1.6 🇳🇿新西兰[Post study work visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/post-study-work-visa)  
+从新西兰大学毕业后，可以申请post study work visa，可以在1至3年内无条件居留新西兰，为任何雇主工作。  
+
 ## 2. 归海方法论
 另外，分享几条人在国内已经工作了再出国的办法。零工作门槛，不需要找到国外工作，可以先出国再找，当然能不能找到就全看个人实力了。
 
