@@ -69,6 +69,11 @@ by WY
 从日本的大学毕业后，可以申请特定活动签证，在日本无条件停留6个月打工或找工作，可以续签1次。  
 * 名校：RU11, NAIST...
 
+### 1.16 🇰🇷韩国[D-10 Job seeker visa](https://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?seq=761423&srchFr=&srchTo=&srchWord=&srchTp=&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=)  
+从韩国的社区学院及以上学历毕业3年内，或者从TIMES排名前200的海外学校毕业三年内，可以申请D-10签证，在韩国无条件停留6个月实习或找工作，可以续签。  
+* 硬性要求：毕业3年内申请  
+* 名校：SNU, Yonsei, Korea, SKKU, KAIST...  
+
 ### Remark: 🇺🇸美国[OPT](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students)  
 和很多人的认知不同，从美国大学毕业后确实可以利用OPT的时间去尝试在美国停留一段时间进行职业相关的工作实习。不过从门槛和自由度上来说，并不像上述国家一样可以无条件在美国居留那么长的时间。  
 一般要在毕业前90天内申请OPT，OPT对于所有专业来说可以多留美12个月进行工作实习，如果是STEM专业，STEM OPT可以延长至36个月留美进行工作实习。虽然申请OPT时不需要工作offer，但OPT对失业期有要求，并不是无门槛地居留12到36个月。普通专业OPT的失业期是90天，STEM OPT可以延长至150天，也就是如果拿到OPT后90天或150天内可以无条件居留美国找工作，但是如果在失业期内没有找到雇主，那么就必须离开美国。  
