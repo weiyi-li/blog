@@ -5,7 +5,7 @@ by WY
 ### 1.1 🇬🇧英国[Graduate visa](https://www.gov.uk/graduate-visa)（旧称PSW）  
 从英国大学本硕博毕业后，可以申请graduate visa。本硕毕业有2年有效期，博士毕业有3年有效期，期间可以在英国找工作或工作。同时部分学校享受T4 pilot计划，学生签证有效期比毕业时间延长半年，理论上毕业后最长可以在英国无条件停留2.5年的时间。  
 * 硬性要求：申请时身份状态需要是学生签证，同时人在英国境内
-* 名校：Cam, OX, ICL, LSE, UCL, Ed, Man, Bristol...
+* 名校：Cam, Ox, ICL, LSE, UCL, Ed, Man, Bristol...
 
 ### 1.2 🇨🇦加拿大[Post-graduate working visa](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html)  
 从加拿大大学毕业后，即使没有工作offer也可以申请PGWV签证。项目时长大于8个月小于2年，PGWV有效期和项目时长相等；项目时长大于2年的，PGWV有效期3年，期间可以在加拿大找工作或工作。理论上毕业后最长可以在加拿大无条件停留3年时间。 
