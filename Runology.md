@@ -70,7 +70,7 @@ by WY
 * 名校：RU11, NAIST...
 
 ### 1.16 🇰🇷韩国[D-10 Job seeker visa](https://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?seq=761423&srchFr=&srchTo=&srchWord=&srchTp=&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=)  
-从韩国的社区学院及以上学历毕业3年内，或者从TIMES排名前200的海外学校毕业三年内，可以申请D-10签证，在韩国无条件停留6个月实习或找工作，可以续签。  
+从韩国的社区学院及以上学历毕业3年内，或者从TIMES排名前200的海外学校毕业3年内，可以申请D-10签证，在韩国无条件停留6个月实习或找工作，可以续签。  
 * 硬性要求：毕业3年内申请  
 * 名校：SNU, Yonsei, Korea, SKKU, KAIST...  
 
