@@ -15,7 +15,7 @@ by WY
 * 名校：UofT, UBC, McGill, McMaster, Alberta, Waterloo, NEU, MILA...
 
 ### 1.3 🇸🇬新加坡[SVP+LTVP](https://www.ntu.edu.sg/life-at-ntu/student-life/onestop/student's-pass/returning-cancelling-your-student's-pass)  
-新加坡学生准证到期后必须去移民局注销，之后会给时长三个月的短期签证（SVP/白卡），如果期间没找到工作但还想继续留下可以申请时长一年的长期签证（LTVP），毕业后最多可以在新加坡无条件居留1年3个月左右。  
+新加坡学生准证到期后必须去移民局注销，之后会给时长3个月的短期签证（SVP/白卡），如果期间没找到工作但还想继续留下可以申请时长1年的长期签证（LTVP），毕业后最多可以在新加坡无条件居留1年3个月左右。  
 * 名校：NUS, NTU, SMU, SUTD...
 
 ### 1.4 🇭🇰香港[IANG](https://www.immd.gov.hk/hkt/services/visas/IANG.html)  
