@@ -28,7 +28,7 @@ by WY
 * 名校：3TU, UvA, EUR, UG, WUR, Utrecht, Leiden...
 
 ### 1.6 🇳🇿新西兰[Post study work visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/post-study-work-visa)  
-从新西兰大学毕业后，可以申请post study work visa，可以在1至3年内无条件居留新西兰，为任何雇主工作。  
+如果从新西兰大学毕业，可以申请post study work visa，可以在1至3年内无条件居留新西兰，为任何雇主工作。  
 * 名校：Auckland, Otago...
 
 ### 1.7 🇮🇪爱尔兰[Third level graduate scheme](https://www.irishimmigration.ie/my-situation-has-changed-since-i-arrived-in-ireland/third-level-graduate-programme/#introduction)（也叫[Stamp1G](https://www.ucd.ie/global/studentexperience/thirdlevelgraduateprogramme-stamp1g/)）  
@@ -41,7 +41,7 @@ by WY
 * 名校：KTH, CTH, UU, Lund, SU, GU, Karolinska...
 
 ### 1.9 🇫🇮芬兰[Residence permit to look for work](https://migri.fi/en/residence-permit-to-look-for-work)  
-从芬兰大学毕业后，可以申请最长2年的居留许可，无条件在芬兰找工作。  
+如果从芬兰大学毕业，可以申请最长2年的居留许可，无条件在芬兰找工作。  
 * 名校：Aalto, UH, TUT...
 
 ### 1.10 🇩🇪德国[Residence permit](https://www.uni-konstanz.de/en/international-office/study-in-konstanz/degree-studies/work-in-germany-after-completing-your-studies/non-eu/faq/)  
@@ -49,11 +49,11 @@ by WY
 * 名校：TU9, LMU, FUB, Heidelberg U, MPI...
 
 ### 1.11 🇧🇪比利时[Search year residence permit](https://www.kuleuven.be/english/stuvo/working-volunteering-career/transition-to-the-job-market/working-non-eea)  
-从比利时大学毕业后，可以申请12个月的search year居留许可用于找工作或工作。 
+如果从比利时大学毕业，可以申请12个月的search year居留许可用于找工作或工作。 
 * 名校：KU Leuven, Ghent U, VUB...
 
 ### 1.12 🇩🇰丹麦[Establishment card](https://www.nyidanmark.dk/en-GB/Applying/Work/Establishment%20card)  
-一般情况下，在丹麦完成高等教育学历后可以通过[higher educational programmes](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Study/Higher-education)在完成学业后额外申请6个月的时间找工作。  
+一般情况下，如果在丹麦完成高等教育学历，可以通过[higher educational programmes](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Study/Higher-education)在完成学业后额外申请6个月的时间找工作。  
 不过，如果毕业于丹麦的本硕博项目，可以申请establishment card，比前者拥有更长的居留时间。Establishment card可以在毕业后在丹麦继续无条件居留2年，用于找工作或工作，可以在任意雇主工作。如果找到了与专业相关的工作，可以另外再续1年。
 * 硬性要求：Establishment card需要在毕业1年内申请
 * 名校：DTU, UCPH, Aarhus U...
@@ -63,7 +63,7 @@ by WY
 * 名校：PoliMi, PoliTo, Sapienza, IIT, Bocconi...
 
 ### 1.14 🇪🇸西班牙[Job seeker visa](https://www.uab.cat/web/mobility-international-exchange/international-support-service/non-eu/job-seeking-visa-1345819347515.html)  
-从西班牙大学毕业后，可以在学生居留到期前后申请找工作居留，可以无条件在西班牙居留1年找工作。  
+如果从西班牙大学毕业，可以在学生居留到期前后申请找工作居留，可以无条件在西班牙居留1年找工作。  
 * 名校：UAB, UCM...
 
 ### 1.15 🇯🇵日本[特定活动签证](https://www.isa.go.jp/zh-cn/applications/procedures/nyuukokukanri07_00012.html)  
