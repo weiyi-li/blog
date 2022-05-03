@@ -41,7 +41,7 @@ by WY
 
 ### 1.8 🇸🇪瑞典[Extend residence permit](https://studyinsweden.se/moving-to-sweden/permits-visas/)  
 从瑞典大学毕业后，可以申请延长居留许可12个月，在此期间可以无条件居留瑞典找工作等。  
-另外，在瑞典就读的博士生满4年可以申请[瑞典永居](https://sulf.se/en/work-salary-and-benefits/residence-permit/)。如果是其他人员，在瑞典连续居住5年可以获得[长期居民](https://sulf.se/en/work-salary-and-benefits/residence-permit/)身份(Long-term resident)，之后可转为永居。  
+另外，在瑞典就读的博士生满4年可以申请[瑞典永居](https://sulf.se/en/work-salary-and-benefits/residence-permit/)。如果是其他人员，在瑞典连续居住5年可以获得[长期居留](https://sulf.se/en/work-salary-and-benefits/residence-permit/)身份（Long-term resident），之后可转为永居。  
 * 名校：KTH, CTH, UU, Lund, SU, GU, Karolinska...
 
 ### 1.9 🇫🇮芬兰[Residence permit to look for work](https://migri.fi/en/residence-permit-to-look-for-work)  
@@ -55,6 +55,7 @@ by WY
 
 ### 1.11 🇧🇪比利时[Search year residence permit](https://www.kuleuven.be/english/stuvo/working-volunteering-career/transition-to-the-job-market/working-non-eea)  
 如果从比利时大学毕业，可以申请12个月的search year居留许可用于找工作或工作。 
+在比利时连续合法居留5年且有能力支持生活，可以申请[长期居留](https://www.commissioner.brussels/en/i-am-an-expat/residence-formalities/non-ue-citizen/79-residence-formalities-non-ue/85-more-than-90-days)/D card（Long-term residence），之后有固定渠道转为永居。  
 * 名校：KU Leuven, Ghent U, VUB...
 
 ### 1.12 🇩🇰丹麦[Establishment card](https://www.nyidanmark.dk/en-GB/Applying/Work/Establishment%20card)  
