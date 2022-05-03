@@ -38,6 +38,7 @@ by WY
 
 ### 1.8 🇸🇪瑞典[Extend residence permit](https://studyinsweden.se/moving-to-sweden/permits-visas/)  
 从瑞典大学毕业后，可以申请延长居留许可12个月，在此期间可以无条件居留瑞典找工作等。  
+另外，在瑞典就读的博士生满4年可以申请[瑞典永居](https://sulf.se/en/work-salary-and-benefits/residence-permit/)。如果是其他人员，在瑞典连续居住5年可以获得[长期居民](https://sulf.se/en/work-salary-and-benefits/residence-permit/)身份(Long-term resident)，之后可转为永居。  
 * 名校：KTH, CTH, UU, Lund, SU, GU, Karolinska...
 
 ### 1.9 🇫🇮芬兰[Residence permit to look for work](https://migri.fi/en/residence-permit-to-look-for-work)  
@@ -74,6 +75,11 @@ by WY
 从韩国的社区学院及以上学历毕业3年内，或者从TIMES排名前200的海外学校毕业3年内，可以申请D-10签证，在韩国无条件停留6个月实习或找工作，可以续签。  
 * 硬性要求：毕业3年内申请  
 * 名校：SNU, Yonsei, Korea, SKKU, KAIST...  
+
+### 1.17 🇳🇴挪威[Job seeker visa](https://www.udi.no/en/want-to-apply/work-immigration/job-seekers/)
+如果从挪威的大学毕业，可以申请最长1年的居留许可，无条件在挪威找工作。  
+另外，在挪威学习最大的利好来自[永居政策](https://www.udi.no/en/word-definitions/permanent-residence-permit/)。在挪威合法拥有居留许可达3年，可以申请挪威永居。这也就意味着从挪威博士毕业即能自动获得永居。  
+* 名校：UiO, NTNU
 
 ### Remark: 🇺🇸美国[OPT](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students)  
 从美国大学毕业后可以利用OPT的时间去尝试在美国停留一段时间进行职业相关的工作实习，不过和很多人的认知不同，从门槛和自由度上来说，美国OPT并不像上述国家一样可以无条件居留那么长的时间。  
