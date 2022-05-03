@@ -120,6 +120,9 @@ by WY
 在中国申请，可在澳大利亚呆1年。18-30岁之间申请，每年限额5000份。  
 * 硬性要求：有高等教育学历，有一定英语水平  
 
-
 ### 2.4 🇳🇿新西兰[Working holiday visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/china-working-holiday-visa)
 在中国申请，可在新西兰呆1年。18-30岁之间申请，每年限额1000份。  
+
+### 2.5 🇫🇷法国[VLS-TS](https://france-visas.gouv.fr/zh/web/france-visas/search-employment-creation-business)/[《人才护照》长期签证](https://static.tlscontact.com/media/cn/vos_talents_sont_bienvenus_en_france_cn.pdf)
+* VLS-TS：同1.18。从法国大学硕士及以上毕业后如果离开法国，在毕业后的4年内可以申请VLS-TS签证，相当于长期居留签证，时长3个月到1年不等，用于在法国找工作或创业。可以在国内申请。  
+* 《人才护照》长期签证：年薪超过4万欧元并持有法国硕士学位或受雇于在法国的创新型企业，可以为自己和家人（配偶和未成年子女）申请《人才护照》长期签证。可以在国内申请。  
