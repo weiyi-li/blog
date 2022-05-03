@@ -45,6 +45,7 @@ by WY
 
 ### 1.9 🇫🇮芬兰[Residence permit to look for work](https://migri.fi/en/residence-permit-to-look-for-work)  
 如果从芬兰大学毕业，可以申请最长2年的居留许可，无条件在芬兰找工作。  
+另外，在芬兰以连续居留许可（Type A permit）合法居住4年，可以申请[永居](https://migri.fi/en/application-for-a-permanent-residence-permit)。  
 * 名校：Aalto, UH, TUT...
 
 ### 1.10 🇩🇪德国[Residence permit](https://www.uni-konstanz.de/en/international-office/study-in-konstanz/degree-studies/work-in-germany-after-completing-your-studies/non-eu/faq/)  
@@ -58,7 +59,7 @@ by WY
 ### 1.12 🇩🇰丹麦[Establishment card](https://www.nyidanmark.dk/en-GB/Applying/Work/Establishment%20card)  
 一般情况下，如果在丹麦完成高等教育学历，可以通过[higher educational programmes](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Study/Higher-education)在完成学业后额外申请6个月的时间找工作。  
 不过，如果毕业于丹麦的本硕博项目，可以申请establishment card，比前者拥有更长的居留时间。Establishment card可以在毕业后在丹麦继续无条件居留2年，用于找工作或工作，可以在任意雇主工作。如果找到了与专业相关的工作，可以另外再续1年。  
-在丹麦连续合法居留8年可以申请[永居](https://www.nyidanmark.dk/de-DE/You-want-to-apply/Permanent-residence-permit/Permanent-residence)，同时还需满足以下2个条件。如果能同时满足4个，时间缩短为4年。  
+在丹麦连续合法居留8年可以申请[永居](https://www.nyidanmark.dk/de-DE/You-want-to-apply/Permanent-residence-permit/Permanent-residence)，同时还需满足以下任意2个条件。如果能同时满足4个，时间缩短为4年。  
 (1) 通过丹麦语3级考试  
 (2) 在丹麦被雇用或自雇超过4年  
 (3) 通过active citizen exam或获得active citizenship  
