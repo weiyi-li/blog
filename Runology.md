@@ -27,6 +27,7 @@ by WY
 
 ### 1.5 🇳🇱荷兰[Orientation visa](https://business.gov.nl/coming-to-the-netherlands/permits-and-visa/orientation-visa-for-highly-educated-persons/)（也叫Search year visa）
 见2.1。从荷兰大学毕业后，可在荷兰无条件居留1年，期间可以在荷兰工作、找工作等。  
+另外，在荷兰连续合法持有5年居留许可并连续居住在荷兰5年，可以申请[永居](https://ind.nl/en/permanent-residence/Pages/permanent-residence-after-5-years.aspx)。  
 * 名校：3TU, UvA, EUR, UG, WUR, Utrecht, Leiden...
 
 ### 1.6 🇳🇿新西兰[Post study work visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/post-study-work-visa)  
