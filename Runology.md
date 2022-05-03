@@ -71,10 +71,12 @@ by WY
 
 ### 1.13 🇮🇹意大利[待业居留](https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/1893/Il-permesso-di-soggiorno-per-attesa-occupazione-Quando-si-puo-richiedere)  
 从意大利大学毕业后，可以在学生居留到期后申请待业居留，可以无条件在意大利居留1年，包括找工作。  
+在意大利连续合法居留5年后，可以申请永居。  
 * 名校：PoliMi, PoliTo, Sapienza, IIT, Bocconi...
 
 ### 1.14 🇪🇸西班牙[Job seeker visa](https://www.uab.cat/web/mobility-international-exchange/international-support-service/non-eu/job-seeking-visa-1345819347515.html)  
 如果从西班牙大学毕业，可以在学生居留到期前后申请找工作居留，可以无条件在西班牙居留1年找工作。  
+在西班牙连续合法居留5年后，可以申请[长期居留](https://www.immigrationspain.es/en/long-term-residency/)（即以前的永居）。
 * 名校：UAB, UCM...
 
 ### 1.15 🇯🇵日本[特定活动签证](https://www.isa.go.jp/zh-cn/applications/procedures/nyuukokukanri07_00012.html)  
