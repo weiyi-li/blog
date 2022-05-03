@@ -21,6 +21,7 @@ by WY
 
 ### 1.4 🇭🇰香港[IANG](https://www.immd.gov.hk/hkt/services/visas/IANG.html)  
 从香港的大学毕业6个月内，即使没有工作offer也可以申请IANG签证，可以在1年内在香港无条件居留，包括找工作以及工作。  
+在香港合法居留7年，可以申请香港永久性居民身份。  
 * 硬性要求：要在毕业后6个月内申请才能算应届非本地毕业生，可以不用工作offer就申请到IANG；否则会被算作回港非本地毕业生，需要有工作offer才行
 * 名校：HKU, CUHK, HKUST, CityU, PolyU, HKBU...
 
