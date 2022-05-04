@@ -50,7 +50,8 @@ by WY
 * 名校：Aalto, UH, TUT...
 
 ### 1.10 🇩🇪德国[Residence permit](https://www.uni-konstanz.de/en/international-office/study-in-konstanz/degree-studies/work-in-germany-after-completing-your-studies/non-eu/faq/)  
-从德国大学毕业后，可以申请延长居留许可最长达18个月，期间可无条件在德国居留，包括找工作等。 
+从德国大学毕业后，可以申请延长居留许可最长达18个月，期间可无条件在德国居留，包括找工作等。  
+在德国连续合法持有5年居留许可后，可以申请[Open-ended residence permit](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html)。  
 * 名校：TU9, LMU, FUB, Heidelberg U, MPI...
 
 ### 1.11 🇧🇪比利时[Search year residence permit](https://www.kuleuven.be/english/stuvo/working-volunteering-career/transition-to-the-job-market/working-non-eea)  
