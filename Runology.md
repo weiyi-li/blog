@@ -136,3 +136,6 @@ by WY
 ### 2.6 🇦🇹奥地利[Job seeker visa - Very highly qualified workers](https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/very-highly-qualified-workers/)  
 在中国申请，如果个人条件达到申请标准中的70分，可以申请时长6个月的Job seeker visa在奥地利找工作。如果能在期限内拿到工作offer，可以直接申请有效期24个月的红白红卡，之后可申请永居。  
 * 硬性要求：个人条件达到70分
+
+### 2.7 🇩🇪德国[Jobseeker visa](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers)
+在中国申请，可在德国居留6个月找工作，过期后可重新申请1次。  
