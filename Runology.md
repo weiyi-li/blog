@@ -139,4 +139,4 @@ by WY
 
 ### 2.7 🇩🇪德国[Jobseeker visa](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers)
 在中国申请，可在德国居留6个月找工作，过期后可重新申请1次。  
-* 硬性要求：要拥有高等教育学历，或拥有专科技能且德语B1
+* 硬性要求：要拥有高等教育学历，或拥有职业技能且德语B1
