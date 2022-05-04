@@ -97,6 +97,10 @@ by WY
 从法国大学硕士及以上毕业后如果离开法国，在毕业后的4年内可以申请VLS-TS签证，相当于长期居留签证，时长3个月到1年不等，用于在法国找工作或创业。  
 * 名校：X, PSL, HEC, EDHEC, INSA Lyon...
 
+### 1.19 🇦🇹奥地利[Residence Permit to search for employment or start a business](https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/graduates/)
+从奥地利大学毕业后，可以申请延长学生居留许可最长达12个月，期间可无条件在奥地利居留，包括找工作和创业等。 
+* 名校：TU Wien...
+
 ### Remark: 🇺🇸美国[OPT](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students)  
 从美国大学毕业后可以利用OPT的时间去尝试在美国停留一段时间进行职业相关的工作实习，不过和很多人的认知不同，从门槛和自由度上来说，美国OPT并不像上述国家一样可以无条件居留那么长的时间。  
 一般要在毕业前90天内申请OPT，OPT对于所有专业来说可以多留美12个月进行工作实习；如果是STEM专业，STEM OPT可以延长至36个月留美进行工作实习。虽然申请OPT时不需要工作offer，但OPT对失业期有要求，并不是无门槛地居留12到36个月。普通专业OPT的失业期是90天，STEM OPT可以延长至150天，也就是如果拿到OPT后90天或150天内可以无条件居留美国找工作，但是如果在失业期内没有找到雇主，那么就必须离开美国。  
