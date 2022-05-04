@@ -132,6 +132,6 @@ by WY
 * VLS-TS：同1.18。从法国大学硕士及以上毕业后如果离开法国，在毕业后的4年内可以申请VLS-TS签证，相当于长期居留签证，时长3个月到1年不等，用于在法国找工作或创业。可以在国内申请。  
 * 《人才护照》长期签证：年薪超过4万欧元并持有法国硕士学位或受雇于在法国的创新型企业，可以为自己和家人（配偶和未成年子女）申请《人才护照》长期签证。可以在国内申请。  
 
-### 2.6 🇦🇹奥地利[Job seeker visa](https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/very-highly-qualified-workers/)  
+### 2.6 🇦🇹奥地利[Job seeker visa - Very highly qualified workers](https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/very-highly-qualified-workers/)  
 在中国申请，如果个人条件达到申请标准中的70分，可以申请时长6个月的Job seeker visa在奥地利找工作。如果能在期限内拿到工作offer，可以直接申请有效期24个月的红白红卡，之后可申请永居。  
 * 硬性要求：个人条件达到70分
