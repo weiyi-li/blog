@@ -99,7 +99,7 @@ by WY
 
 ### 1.19 🇦🇹奥地利[Residence Permit to search for employment or start a business](https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/graduates/)
 从奥地利大学毕业后，可以申请延长学生居留许可最长达12个月，期间可无条件在奥地利居留，包括找工作和创业等。 
-* 名校：TU Wien, TU Graz...
+* 名校：TU Wien, TU Graz, U Wien, U Innsbruck...
 
 ### Remark: 🇺🇸美国[OPT](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students)  
 从美国大学毕业后可以利用OPT的时间去尝试在美国停留一段时间进行职业相关的工作实习，不过和很多人的认知不同，从门槛和自由度上来说，美国OPT并不像上述国家一样可以无条件居留那么长的时间。  
