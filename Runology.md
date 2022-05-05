@@ -114,12 +114,12 @@ by WY
 
 ### 2.1 🇳🇱荷兰[Orientation visa](https://business.gov.nl/coming-to-the-netherlands/permits-and-visa/orientation-visa-for-highly-educated-persons/)（也叫Search year visa）
 可以在海外申请，可在荷兰及欧盟无条件居留1年，期间可以在荷兰工作、找工作等。  
-* 唯一硬性要求：硕士及以上毕业于世界前200*学校，或荷兰本科或硕士及以上毕业  
+* 唯一硬性要求：3年内硕士及以上毕业于世界前200*学校，或3年内从荷兰本科或硕士及以上毕业  
 *毕业学校在QS、TIMES、ARWU任一榜单前200  
 
 ### 2.2 🇬🇧英国即将开设的[HPI visa](https://qz.com/2153193/whos-eligible-for-the-uks-new-high-potential-individual-visa/)（高潜力人才签证）
 可以在海外申请，可在英国无条件呆2（硕）到3年（博）。  
-* 唯一硬性要求：五年内硕士及以上毕业于英国以外的世界前50*学校  
+* 唯一硬性要求：5年内硕士及以上毕业于英国以外的世界前50*学校  
 *毕业学校同时在QS、TIMES、ARWU任意两个榜单中排名前50  
 
 ### 2.3 🇦🇺澳大利亚[Work and holiday visa](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462)（462 visa）
