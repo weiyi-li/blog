@@ -125,7 +125,7 @@ _**不一定要求本国学历**_：
 ### 2.2 🇬🇧英国即将开设的[HPI visa](https://qz.com/2153193/whos-eligible-for-the-uks-new-high-potential-individual-visa/)（高潜力人才签证）
 可以在海外申请，可在英国无条件呆2（硕）到3年（博）。  
 * 唯一硬性要求：5年内硕士及以上毕业于英国以外的世界前50*学校  
-*毕业学校同时在QS、TIMES、ARWU任意两个榜单中排名前50  
+*毕业学校同时在QS、TIMES、ARWU任意两个榜单中排名前50，英国内政部每年动态更新具体[院校名单](https://www.gov.uk/government/publications/high-potential-individual-visa-global-universities-list)  
 
 ### 2.3 🇦🇺澳大利亚[Work and holiday visa](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462)（462 visa）
 在中国申请，可在澳大利亚呆1年。18-30岁之间申请，每年限额5000份。  
