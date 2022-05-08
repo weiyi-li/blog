@@ -36,7 +36,7 @@ by WY
 * 发掘并长期坚持一些有益的爱好  
 * 多认识一些志同道合的靠谱朋友  
 * 保持海外留学或工作时的人脉关系  
-* 尽量拥有一张自己能力范围内能获得的海外长期签证（比如海外永居、英国graduate visa），或尽量保证自己回国后有申请海外长期签证再出海的条件（比如英国HPI visa、荷兰Orientation visa）  
+* 尽量拥有一张自己能力范围内能获得的海外长期签证（比如海外永居、英国[graduate visa](https://www.gov.uk/graduate-visa)），或尽量保证自己回国后有申请海外长期签证再出海的条件（比如英国[HPI visa](https://qz.com/2153193/whos-eligible-for-the-uks-new-high-potential-individual-visa/)、荷兰[Orientation visa](https://business.gov.nl/coming-to-the-netherlands/permits-and-visa/orientation-visa-for-highly-educated-persons/)）  
 
 ## 4. 回国
 ### 4.1 回国发展的时机  
