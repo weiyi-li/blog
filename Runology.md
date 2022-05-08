@@ -48,7 +48,7 @@ by WY
 
 ### 1.9 🇫🇮芬兰[Residence permit to look for work](https://migri.fi/en/residence-permit-to-look-for-work)  
 从芬兰大学获得学位后的5年内，在芬兰境内和海外均可以申请最长2年的[居留许可](https://migri.fi/en/-/rules-on-international-students-moving-to-finland-relaxed)，无条件在芬兰找工作。  
-另外，在芬兰以连续居留许可（Type A permit）合法居住4年，可以申请[永居](https://migri.fi/en/application-for-a-permanent-residence-permit)。  
+另外，在芬兰以连续居留许可（Type A permit）合法居住4年，可以申请[永居](https://migri.fi/en/application-for-a-permanent-residence-permit)。学生签证自2022年4月起属于Type A居留许可。  
 * 名校：Aalto, UH, TUT...
 
 ### 1.10 🇩🇪德国[Residence permit](https://www.uni-konstanz.de/en/international-office/study-in-konstanz/degree-studies/work-in-germany-after-completing-your-studies/non-eu/faq/)  
