@@ -122,7 +122,7 @@ _**不一定要求本国学历**_：
 * 唯一硬性要求：3年内硕士及以上毕业于世界前200*学校，或3年内从荷兰本科或硕士及以上毕业  
 *毕业学校在QS、TIMES、ARWU任一榜单前200  
 
-### 2.2 🇬🇧英国即将开设的[HPI visa](https://qz.com/2153193/whos-eligible-for-the-uks-new-high-potential-individual-visa/)（高潜力人才签证）
+### 2.2 🇬🇧英国[HPI visa](https://qz.com/2153193/whos-eligible-for-the-uks-new-high-potential-individual-visa/)（高潜力人才签证）
 可以在海外申请，可在英国无条件呆2（硕）到3年（博）。  
 * 唯一硬性要求：5年内硕士及以上毕业于英国以外的世界前50*学校  
 *毕业学校同时在QS、TIMES、ARWU任意两个榜单中排名前50，英国内政部每年动态更新具体[院校名单](https://www.gov.uk/government/publications/high-potential-individual-visa-global-universities-list)  
