@@ -113,7 +113,7 @@ by WY
 另外，分享几条人在国内已经工作了再出国的办法。零工作门槛，不需要找到国外工作，可以先出国再找，当然能不能找到就全看个人实力了。  
 对于在海外申请入境找工作的签证，有的国家要求只要持有认可的学历或满足一定条件即可在海外申请签证入境找工作，有的国家要求持有本国学历才能享受海外申请签证入境找工作。  
 
-不一定要求本国学历：  
+_**不一定要求本国学历**_：  
 
 ### 2.1 🇳🇱荷兰[Orientation visa](https://business.gov.nl/coming-to-the-netherlands/permits-and-visa/orientation-visa-for-highly-educated-persons/)（也叫Search year visa）
 可以在海外申请，可在荷兰及欧盟无条件居留1年，期间可以在荷兰工作、找工作等。虽然荷兰英语普及率和通行度非常高，但还是建议学习一些荷兰语。  
@@ -140,7 +140,7 @@ by WY
 在中国申请，可在德国居留6个月找工作，过期后可重新申请1次。  
 * 硬性要求：要拥有高等教育学历，或拥有职业技能且**德语B1**
 
-对本国学历有要求：  
+_**对本国学历有要求**_：  
 
 ### 2.7 🇫🇷法国[VLS-TS](https://france-visas.gouv.fr/zh/web/france-visas/search-employment-creation-business)/[《人才护照》长期签证](https://static.tlscontact.com/media/cn/vos_talents_sont_bienvenus_en_france_cn.pdf)
 * VLS-TS：同1.18。从法国大学硕士及以上毕业后如果离开法国，在毕业后的4年内可以申请VLS-TS签证，相当于长期居留签证，时长3个月到1年不等，用于在法国找工作或创业。可以在国内申请。  
