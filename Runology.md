@@ -23,7 +23,7 @@ by WY
 
 ### 1.3 🇸🇬新加坡[SVP+LTVP](https://www.ntu.edu.sg/life-at-ntu/student-life/onestop/student's-pass/returning-cancelling-your-student's-pass)  
 新加坡学生准证到期后必须去移民局注销，之后会给时长3个月的短期签证（SVP/白卡），如果期间没找到工作但还想继续留下可以申请时长1年的长期签证（LTVP），毕业后最多可以在新加坡无条件居留1年3个月左右。  
-* 名校：NUS, NTU, SMU, SUTD...
+* 名校：NUS, NTU, SMU, TUMA, SUTD, ESSEC Singapore...
 
 ### 1.4 🇭🇰香港[IANG](https://www.immd.gov.hk/hkt/services/visas/IANG.html)  
 从香港的大学毕业6个月内，即使没有工作offer也可以申请IANG签证，可以在1年内在香港无条件居留，包括找工作以及工作。  
