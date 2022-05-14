@@ -16,6 +16,7 @@ by WY
 [研究型硕士和授课型硕士科普](https://github.com/weiyi-li/blog/blob/master/Taught_and_Research_Master_Intro.md)  
 [技术专业回国扎根指南](https://github.com/weiyi-li/blog/blob/master/Settledown_in_China_for_Tech.md)  
 [润学和归海方法论](https://github.com/weiyi-li/blog/blob/master/Runology.md)  
+[各留学国家EECS就业方向推荐](https://github.com/weiyi-li/blog/blob/master/EECS_Positions_in_Countries.md)  
 
 ## 生活攻略向blog
 [【英国学生签证攻略】南京Tier4签证全流程2020](https://github.com/weiyi-li/blog/blob/master/UK_Tier4_Visa_Tips.md)  
