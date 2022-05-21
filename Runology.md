@@ -137,28 +137,33 @@ _**不一定要求本国学历**_：
 * 唯一硬性要求：5年内硕士及以上毕业于英国以外的世界前50*学校  
 *毕业学校同时在QS、TIMES、ARWU任意两个榜单中排名前50，英国内政部每年动态更新具体[院校名单](https://www.gov.uk/government/publications/high-potential-individual-visa-global-universities-list)  
 
-### 2.3 🇦🇺澳大利亚[Work and holiday visa](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462)（462 visa）
+### 2.3 🇸🇬新加坡[Work holiday pass](https://www.mom.gov.sg/passes-and-permits/work-holiday-programme)  
+可以在海外申请，18-25岁之间申请，在特定发达地区*本科或研究生就读，可在新加坡无条件停留6个月找工作实习或工作实习，每年限额2000份。   
+* 硬性条件：在特定发达地区正在就读本科或曾就读过研究生   
+*特定发达地区：澳大利亚、法国、德国、香港、日本、荷兰、新西兰、瑞士、英国、美国
+
+### 2.4 🇦🇺澳大利亚[Work and holiday visa](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462)（462 visa）
 在中国申请，可在澳大利亚呆1年。18-30岁之间申请，每年限额5000份。  
 * 硬性要求：有高等教育学历，有一定英语水平  
 
-### 2.4 🇳🇿新西兰[Working holiday visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/china-working-holiday-visa)
+### 2.5 🇳🇿新西兰[Working holiday visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/china-working-holiday-visa)
 在中国申请，可在新西兰呆1年。18-30岁之间申请，每年限额1000份。  
 
-### 2.5 🇦🇹奥地利[Job seeker visa - Very highly qualified workers](https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/very-highly-qualified-workers/)  
+### 2.6 🇦🇹奥地利[Job seeker visa - Very highly qualified workers](https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/very-highly-qualified-workers/)  
 在中国申请，如果个人条件达到申请标准中的70分，可以申请时长6个月的Job seeker visa在奥地利找工作。如果能在期限内拿到工作offer，可以直接申请有效期24个月的红白红卡，之后可申请永居。  
 * 硬性要求：个人条件达到70分
 
 ### 2.6 🇩🇪德国[Jobseeker visa](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers)
-在中国申请，可在德国居留6个月找工作，过期后可重新申请1次。  
+在中国申请，7在德国居留6个月找工作，过期后可重新申请1次。  
 * 硬性要求：要拥有高等教育学历，或拥有职业技能且**德语B1**
 
 _**对本国学历有要求**_：  
 
-### 2.7 🇫🇷法国[VLS-TS](https://france-visas.gouv.fr/zh/web/france-visas/search-employment-creation-business)/[《人才护照》长期签证](https://static.tlscontact.com/media/cn/vos_talents_sont_bienvenus_en_france_cn.pdf)
+### 2.8 🇫🇷法国[VLS-TS](https://france-visas.gouv.fr/zh/web/france-visas/search-employment-creation-business)/[《人才护照》长期签证](https://static.tlscontact.com/media/cn/vos_talents_sont_bienvenus_en_france_cn.pdf)
 * VLS-TS：同1.18。从法国大学硕士及以上毕业后如果离开法国，在毕业后的4年内可以申请VLS-TS签证，相当于长期居留签证，时长3个月到1年不等，用于在法国找工作或创业。可以在国内申请。  
 * 《人才护照》长期签证：年薪超过4万欧元并持有法国硕士学位或受雇于在法国的创新型企业，可以为自己和家人（配偶和未成年子女）申请《人才护照》长期签证。可以在国内申请。  
 
-### 2.8 🇫🇮芬兰[Residence permit to look for work](https://migri.fi/en/residence-permit-to-look-for-work)  
+### 2.9 🇫🇮芬兰[Residence permit to look for work](https://migri.fi/en/residence-permit-to-look-for-work)  
 同1.9。从芬兰大学获得学位后的5年内，在芬兰境内和海外均可以申请最长2年的[居留许可](https://migri.fi/en/-/rules-on-international-students-moving-to-finland-relaxed)，无条件在芬兰找工作。  
 另外，在芬兰以连续居留许可（Type A permit）合法居住4年，可以申请[永居](https://migri.fi/en/application-for-a-permanent-residence-permit)。  
 * 硬性要求：从芬兰大学获得学位后的5年内申请
