@@ -139,7 +139,7 @@ _**不一定要求本国学历**_：
 
 ### 2.3 🇸🇬新加坡[Work holiday pass](https://www.mom.gov.sg/passes-and-permits/work-holiday-programme)  
 可以在海外申请，18-25岁之间申请，在特定发达地区*本科或研究生就读，可在新加坡无条件停留6个月找工作实习或工作实习，每年限额2000份。   
-* 硬性条件：在特定发达地区正在就读本科或曾就读过研究生   
+* 硬性要求：在特定发达地区正在就读本科或曾就读过研究生   
 *特定发达地区：澳大利亚、法国、德国、香港、日本、荷兰、新西兰、瑞士、英国、美国
 
 ### 2.4 🇦🇺澳大利亚[Work and holiday visa](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462)（462 visa）
