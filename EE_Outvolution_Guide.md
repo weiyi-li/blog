@@ -8,7 +8,7 @@ by WY
 以下分点解释一下为何、如何外卷到各研究生专业去。  
 ### 1.1 CS
 从EE润码没啥好说的，找对转码友好的就完事了。有个建议就是如果铁了心转码，不要再对EE有任何牵挂了，立刻抛弃沉没成本开始数据库算法的学习，否则很有可能半途而废，EE也没学好。  
-CS：USC CS37、NEU Align、Brown CS、TAMU CS、UCSD CS76、UCL CS、Bristol CS (Conversion)等，也包括Duke ECE（全是CS课）  
+CS：USC CS37、NEU Align、Brown CS、TAMU CS、UCSD CS76、UCL CS、Bristol CS (Conversion)等，也包括Duke ECE、UCSD EC79等（全是CS课）  
 
 ### 1.2 BME
 英国欧洲有相当多医疗技术相关的理工科专业，一般bar低于正统EE，适合申请不上同校EE专业，不想学校降档但也对医疗或者健康的工程应用感兴趣的同学。  
