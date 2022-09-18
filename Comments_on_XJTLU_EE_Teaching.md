@@ -12,8 +12,8 @@ by WY
 **Pros**✅学习Keil等嵌入式开发软件，有基础嵌入式开发。学习Quartus等FPGA开发软件，覆盖时序等内容，有基础FPGA开发项目。  
 **Cons**❓缺少Linux，接口，部分时序内容，嵌入式可能会用到没学过的Android环境嵌入式开发。
 
-## IC设计/验证
-**Pros**✅学习计组和流水线设计，Verilog内容较全面，用EDA设计layout，包括DRC等环节。  
+## IC设计/验证/fab
+**Pros**✅学习计组和流水线设计，Verilog内容较全面，用EDA设计layout，包括DRC等环节。Fab工艺流程内容教学全面。  
 **Cons**❓部分缺少跨时钟域处理、稳态与亚稳态等时序内容。除了课上学的Verilog还需要了解SystemVerilog。课程用Tanner Tools EDA，业界用Cadence系列和OrCAD等EDA工具较多。不学验证，若有要求需补足UVM验证知识。
 
 ## 通信
