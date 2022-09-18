@@ -19,7 +19,7 @@ BME：IC BME、biological robot、medical robotics等
 ME：UCB ME、CMU ME、UMich ME等  
 
 ### 1.4 SysE
-SysE学的比较杂，一般选课范围广，甚至可以选择管理等方向的课程，适合想淡出硬核技术的同学或者作为bar比EE略低的替代。  
+SysE学的比较杂，一般选课范围广，甚至可以选择管理等方向的课程，适合想拥有high-level全局工程思维做系统设计的同学、想略微淡出硬核技术的同学或者作为bar比EE略低的替代。  
 SysE：Cornell SysE、UPenn SysE等  
 
 ## 2. 国家选择的拓展
