@@ -23,4 +23,7 @@ by WY
 [【英国学生签证攻略】南京Tier4签证全流程2020](https://github.com/weiyi-li/blog/blob/master/UK_Tier4_Visa_Tips.md)  
 [【苏州园区】毕业生政府补贴申请攻略](https://github.com/weiyi-li/blog/blob/master/Gov_Allowance_Application.md)  
 
+## 爱好向blog
+[【建筑】东北近代建筑巡礼](https://zhuanlan.zhihu.com/p/571878338)  
+
 _* 如果觉得这些博客对你有帮助，可以[进入项目](https://github.com/weiyi-li/blog)点击Star进行收藏，万分感谢！_
