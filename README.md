@@ -18,6 +18,7 @@ by WY
 [技术专业回国扎根指南](https://github.com/weiyi-li/blog/blob/master/Settledown_in_China_for_Tech.md)  
 [润学和归海方法论](https://github.com/weiyi-li/blog/blob/master/Runology.md)  
 [各留学国家EECS就业方向推荐](https://github.com/weiyi-li/blog/blob/master/EECS_Positions_in_Countries.md)  
+[EECS话题：热门找工方向思考&建议&分享](https://github.com/weiyi-li/blog/edit/master/EECS_Topic_Hot_Jobs.md)  
 
 ## 生活攻略向blog
 [【英国学生签证攻略】南京Tier4签证全流程2020](https://github.com/weiyi-li/blog/blob/master/UK_Tier4_Visa_Tips.md)  
