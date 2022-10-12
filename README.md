@@ -25,6 +25,6 @@ by WY
 [【苏州园区】毕业生政府补贴申请攻略](https://github.com/weiyi-li/blog/blob/master/Gov_Allowance_Application.md)  
 
 ## 爱好向blog
-[【建筑】东北近代建筑巡礼](https://zhuanlan.zhihu.com/p/571878338)  
+[【建筑】东北日俄伪满时期近代建筑巡礼](https://zhuanlan.zhihu.com/p/571878338)  
 
 _* 如果觉得这些博客对你有帮助，可以[进入项目](https://github.com/weiyi-li/blog)点击Star进行收藏，万分感谢！_
