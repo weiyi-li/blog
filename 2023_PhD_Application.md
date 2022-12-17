@@ -12,7 +12,7 @@ by WY
 * 口头Offer&最终去向：Monash联培（全奖）
 
 * 套瓷/网申：  
-陆港澳（中外合作）🇨🇳🇭🇰🇲🇴：港科广、NUS苏州、Monash联培、广以、HKU、CUHK、PolyU、CityU、UMacau  
+陆港澳（中外合作）🇨🇳🇭🇰🇲🇴：港科广、NUS苏州🇸🇬、Monash联培🇦🇺、广以🇮🇱、HKU、CUHK、PolyU、CityU、UMacau  
 英国🇬🇧：Bristol、Edinburgh、HWU、Sussex、KCL、Leeds、Birmingham、UCL、ICL、Oxford  
 （均为CDT/DTP项目）  
 欧陆🇪🇺：TU/e、Twente、TUD、KTH  
