@@ -89,8 +89,8 @@ by WY
 [CSC申请条款](https://www.csc.edu.cn/article/2214)
 
 ### 5.3 英国常见funding种类
-* CSC：国家公派，适合不介意回国发展的同学  
-* 校奖/院奖：有选拔性质，需要有plan B  
+* CSC：国家公派，毕业后有两年服务期，适合不介意回国发展的同学  
+* 校奖/院奖：有选拔性质，落选可能性不小，需要有plan B  
 * CDT/DTP：Centre for Doctoral Training/Doctoral Training Partnership，有UKRI/EPSRC/MRC等官方科研基金支持，大多是以1+3硕博连读形式批量招收学生的项目；对国际生可能带全奖，可能是home fee+stipend，也可能没钱；录取的国际生人数一般不超过总录取数30%  
 * Studentship：单独招生的岗位，一般有funding，可遇不可求  
 对于直接联系老师的英国申请，英国导师大多会让看看CSC的funding或者支持申请院奖/校奖（比如ICL的President’s PhD Scholarship和UCL的Research Excellence Scholarship）。一般来说如果不是CDT/DTP或者studentship这种稳定有钱的项目，英国的funding确实是不容易拿的，需要做好准备。  
