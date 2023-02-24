@@ -9,6 +9,7 @@ by WY
 [未曾设想的道路：帝国理工学院医疗机器人MRes完整就读总结](https://zhuanlan.zhihu.com/p/412703360)  
 [西浦EE系教学内容评价](https://github.com/weiyi-li/blog/blob/master/Comments_on_XJTLU_EE_Teaching.md)  
 [No need to pay for a research](https://github.com/weiyi-li/blog/blob/master/No_need_to_pay_for_a_research.md)  
+[23spring/fall工作党多国博士申请总结-Healthcare方向](https://zhuanlan.zhihu.com/p/607283884)  
 
 ## 指南向blog
 [XJTLU EE生存指南+电子电气专业2020研究生申请复盘](https://github.com/weiyi-li/blog/blob/master/XJTLU_EE_Guide%2B2020fall_Application.md)  
