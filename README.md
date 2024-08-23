@@ -50,7 +50,7 @@ by WY
 [【建筑】东北日俄伪满时期近代建筑巡礼](https://zhuanlan.zhihu.com/p/571878338)  
 [【建筑】辰野式风格火车站巡礼（进度3/4）](http://xhslink.com/MO9dsU)  
 [【交通】各国家各城市机场快线设计与体验](https://zhuanlan.zhihu.com/p/696018640)  
-[【游记】全日本+北陆拱形JR Pass全体验](http://xhslink.com/9MdesU)  
+[【交通】全日本+北陆拱形JR Pass全体验](http://xhslink.com/9MdesU)  
 [【模玩】日本扭蛋收藏合集](http://xhslink.com/4aIesU)  
 [【模玩】日本扭蛋盒蛋收藏合集（第二弹）](http://xhslink.com/l1LesU)  
 [【食记】我的宝藏小馆：京都怀石餐厅二条有恒](http://xhslink.com/3BNesU)  
