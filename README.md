@@ -30,6 +30,7 @@ by WY
 [英国CDT博士申请科普（有奖）](http://xhslink.com/iWOdsU)  
 [医疗科技向英国CDT项目选校思路](http://xhslink.com/6KSdsU)  
 [美国英国博士生签证政策比较](http://xhslink.com/6KzesU)  
+[欧洲对中国留学生的制裁严重吗？（理工科方向比如量子通信、光学等）](https://www.zhihu.com/question/597162104/answer/2996473735)  
 ### 工作阶段  
 [润学和归海方法论](https://github.com/weiyi-li/blog/blob/master/Runology.md)  
 [各留学国家EECS就业方向推荐](https://github.com/weiyi-li/blog/blob/master/EECS_Positions_in_Countries.md)  
